@@ -1,0 +1,79 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdftex 2015.2.10)  9 FEB 2016 17:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex
+(/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex
+/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Logbog}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:4: Undefined control sequence.
+l.4 \section
+            {Dato:  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:7: Undefined control sequence.
+l.7 \textbf
+           {Omhandler:}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:9: Undefined control sequence.
+l.9 \textbf
+           {Ansvarlig:}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:11: Undefined control sequence.
+l.11 \textbf
+            {Dagsorden:}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:13: Undefined control sequence.
+l.13 \textbf
+            {Logbog}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ \\ 
+/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:16: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.16 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+)
+! Emergency stop.
+<*> ...top/MTV-telesundhed/Latex/Lfiler/Logbog.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
