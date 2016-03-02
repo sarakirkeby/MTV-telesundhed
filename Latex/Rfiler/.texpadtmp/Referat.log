@@ -1,22 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdftex 2015.2.10)  9 FEB 2016 17:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdftex 2015.2.10)  2 MAR 2016 14:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex
-(/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex:1: Undefined control sequence.
-l.1 \chapter
-            {Mødereferat}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex:3: Undefined control sequence.
+**"/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/Rfiler/Referat.tex"
+(/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/Rfiler/Referat.tex
+/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/Rfiler/Referat.tex:3: Undefined control sequence.
 l.3 \section
             {Dato: --.--.--}
 The control sequence at the end of the top line
@@ -25,7 +14,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex:6: Undefined control sequence.
+/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/Rfiler/Referat.tex:6: Undefined control sequence.
 l.6 \textbf
            {Fremmødte:}
 The control sequence at the end of the top line
@@ -36,7 +25,7 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no � in font cmr10!
 Missing character: There is no � in font cmr10!
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex:7: Undefined control sequence.
+/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/Rfiler/Referat.tex:7: Undefined control sequence.
 l.7 \textbf
            {Fraværende:}
 The control sequence at the end of the top line
@@ -49,7 +38,7 @@ Missing character: There is no � in font cmr10!
 Missing character: There is no � in font cmr10!
 Runaway argument?
  \\ \textbf {Dagsorden} 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex:11: Paragraph ended before \\ was complete.
+/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/Rfiler/Referat.tex:11: Paragraph ended before \\ was complete.
 <to be read again> 
                    \par 
 l.11 
@@ -58,7 +47,7 @@ I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Rfiler/Referat.tex:12: Undefined control sequence.
+/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/Rfiler/Referat.tex:12: Undefined control sequence.
 l.12 \textbf
             {Referat}
 The control sequence at the end of the top line
@@ -73,7 +62,7 @@ Runaway argument?
 ! File ended while scanning use of \\.
 <inserted text> 
                 \par 
-<*> ...op/MTV-telesundhed/Latex/Rfiler/Referat.tex
+<*> ...r/MTV-telesundhed/Latex/Rfiler/Referat.tex"
                                                   
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -81,7 +70,7 @@ I'll try to recover; but if the error is serious,
 you'd better type `E' or `X' now and fix your file.
 
 ! Emergency stop.
-<*> ...op/MTV-telesundhed/Latex/Rfiler/Referat.tex
+<*> ...r/MTV-telesundhed/Latex/Rfiler/Referat.tex"
                                                   
 *** (job aborted, no legal \end found)
 
