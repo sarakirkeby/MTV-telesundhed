@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.10)  2 MAR 2016 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.16)  8 MAR 2016 10:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1583,7 +1583,7 @@ File: upzd.fd 2001/06/04 font definitions for U/pzd.
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/09.02.2016.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/18.02.2016.aux))
+)) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/09.02.2016.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/18.02.2016.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/04.03.2016.aux))
 \openout1 = `Logbog.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -1667,7 +1667,7 @@ LaTeX Info: Redefining \nameref on input line 6.
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
 LaTeX Info: Redefining \nameref on input line 6.
-(/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.out) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.out)
+(/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.out) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.out)
 \@outlinefile=\write4
 \openout4 = `Logbog.out'.
 
@@ -1692,11 +1692,11 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
+(babel)             in language  on input line 3.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 32--8
+Underfull \hbox (badness 10000) in paragraph at lines 33--8
 
  []
 
@@ -1742,34 +1742,58 @@ Package babel Info: Redefining danish shorthand "~
 [2
 
 
-] 
-AED: lastpage setting LastPage
+]
+\openout2 = `Lfiler/04.03.2016.aux'.
+
+ (./Lfiler/04.03.2016.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--10
+
+ []
+
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 10.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 10.
-(/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/09.02.2016.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/18.02.2016.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 10.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 10.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 10.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 10.
+[3
+
+
+] 
+AED: lastpage setting LastPage
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 11.
+(/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/09.02.2016.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/18.02.2016.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/04.03.2016.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 11.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 11.
 Package rerunfilecheck Info: File `Logbog.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 10.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 11.
  ) 
 Here is how much of TeX's memory you used:
- 26814 strings out of 493117
- 478329 string characters out of 6135433
+ 26827 strings out of 493117
+ 478387 string characters out of 6135433
  797915 words of memory out of 5000000
- 29899 multiletter control sequences out of 15000+600000
+ 29903 multiletter control sequences out of 15000+600000
  17001 words of font info for 52 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  40i,12n,40p,10459b,746s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on "/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.pdf" (2 pages, 79486 bytes).
+Output written on "/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.pdf" (3 pages, 84863 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

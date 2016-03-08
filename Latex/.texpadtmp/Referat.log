@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.16)  4 MAR 2016 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.16)  4 MAR 2016 11:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1751,73 +1751,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--13
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--32
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--32
+Underfull \hbox (badness 10000) in paragraph at lines 26--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--32
+Underfull \hbox (badness 10000) in paragraph at lines 26--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--32
+Underfull \hbox (badness 10000) in paragraph at lines 26--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
+Underfull \hbox (badness 10000) in paragraph at lines 26--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 50.
 [3
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 47--60
+Underfull \hbox (badness 10000) in paragraph at lines 51--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--60
+Underfull \hbox (badness 10000) in paragraph at lines 65--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--74
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--74
+Underfull \hbox (badness 10000) in paragraph at lines 65--78
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 75--7
+Underfull \hbox (badness 10000) in paragraph at lines 79--7
 
  []
 
@@ -1853,7 +1853,7 @@ Here is how much of TeX's memory you used:
  1143 hyphenation exceptions out of 8191
  40i,12n,40p,10460b,746s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on "/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Referat.pdf" (4 pages, 91467 bytes).
+Output written on "/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Referat.pdf" (4 pages, 92287 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
