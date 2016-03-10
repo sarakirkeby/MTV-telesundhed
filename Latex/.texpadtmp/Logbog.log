@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.10)  10 MAR 2016 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.10)  10 MAR 2016 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1360,18 +1360,6 @@ Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 
-./Dokumentklassen.tex:140: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.140 <
-       <<<<<< Updated upstream
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 Class memoir Warning: You are using the caption package with the memoir class. To prepare we will now reset all captioning macros and configurations to kernel defaults, and then let the caption package take over. Please remember to use the caption package interfaces in order to configure your captions. .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
@@ -1696,28 +1684,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 6.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 \c__siunitx_mathtt_int=\count342
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 8.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 8.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 8.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 8.
- [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 8.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 8.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 8.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 8.
- [2
-
-]
 \openout2 = `Lfiler/09.02.2016.aux'.
 
  (./Lfiler/09.02.2016.tex (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1pbk.fd)
@@ -1745,7 +1711,9 @@ Package babel Info: Redefining danish shorthand "~
 [1
 
 
-]
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 \openout2 = `Lfiler/18.02.2016.aux'.
 
  (./Lfiler/18.02.2016.tex
@@ -1859,18 +1827,18 @@ Package rerunfilecheck Info: File `Logbog.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 13.
  ) 
 Here is how much of TeX's memory you used:
- 26859 strings out of 493117
- 480294 string characters out of 6135433
- 797975 words of memory out of 5000000
- 29915 multiletter control sequences out of 15000+600000
+ 26853 strings out of 493117
+ 480228 string characters out of 6135433
+ 797920 words of memory out of 5000000
+ 29911 multiletter control sequences out of 15000+600000
  17001 words of font info for 52 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  40i,12n,40p,10459b,746s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on "/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.pdf" (7 pages, 89347 bytes).
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb>
+Output written on "/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.pdf" (5 pages, 87260 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
+ 81 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
