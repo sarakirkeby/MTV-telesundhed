@@ -1,6 +1,6 @@
+\changetocdepth {2}
+\select@language {danish}
 \contentsline {chapter}{Indledning}{i}{chapter*.1}
 \contentsline {section}{Baggrund}{i}{section*.2}
 \contentsline {section}{Form\IeC {\r a}l}{i}{section*.3}
 \contentsline {section}{Fokuserede sp\IeC {\o }rgsm\IeC {\r a}l}{ii}{section*.4}
-\changetocdepth {2}
-\select@language {danish}
