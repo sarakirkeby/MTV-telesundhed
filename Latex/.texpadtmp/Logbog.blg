@@ -8,11 +8,17 @@ A level-1 auxiliary file: Lfiler/04.03.2016.aux
 A level-1 auxiliary file: Lfiler/08.03.2016.aux
 A level-1 auxiliary file: Lfiler/10.03.2016.aux
 A level-1 auxiliary file: Lfiler/15.03.2016.aux
+Already encountered file Lfiler/18.02.2016.aux
+---line 33 of file /Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux
+ : \@input{Lfiler/18.02.2016.aux
+ :                              }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: Lfiler/31.03.2016.aux
 I found no \citation commands---while reading file /Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux
 I found no \bibdata command---while reading file /Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux
 You've used 0 entries,
             2118 wiz_defined-function locations,
-            502 strings with 4259 characters,
+            503 strings with 4280 characters,
 and the built_in function-call counts, 18 in all, are:
 = -- 0
 > -- 0
@@ -51,4 +57,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 2
-(There were 2 error messages)
+(There were 3 error messages)
