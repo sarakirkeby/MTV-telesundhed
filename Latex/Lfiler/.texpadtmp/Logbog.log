@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdftex 2015.2.10)  9 FEB 2016 17:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdftex 2015.2.16)  7 APR 2016 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex
-(/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:1: Undefined control sequence.
+**"/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex"
+(/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex
+/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex:1: Undefined control sequence.
 l.1 \chapter
             {Logbog}
 The control sequence at the end of the top line
@@ -14,17 +14,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:4: Undefined control sequence.
-l.4 \section
-            {Dato:  }
+/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex:3: Undefined control sequence.
+l.3 \section
+            {Dato: ..2016}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:7: Undefined control sequence.
-l.7 \textbf
+/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex:6: Undefined control sequence.
+l.6 \textbf
            {Omhandler:}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -32,17 +32,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:9: Undefined control sequence.
-l.9 \textbf
-           {Ansvarlig:}
+/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex:8: Undefined control sequence.
+l.8 \textbf
+           {Ansvarlig:} Sara, Melissa, Lise, Mohamed, Jeppe og Jakob
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:11: Undefined control sequence.
-l.11 \textbf
+/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex:10: Undefined control sequence.
+l.10 \textbf
             {Dagsorden:}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -50,30 +50,39 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:13: Undefined control sequence.
-l.13 \textbf
-            {Logbog}
+/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex:11: Undefined control sequence.
+l.11 \begin
+           {itemize}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Runaway argument?
- \\ 
-/Users/Lise/Desktop/MTV-telesundhed/Latex/Lfiler/Logbog.tex:16: Paragraph ended before \\ was complete.
+/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/Logbog.tex:13: Missing } inserted.
+<inserted text> 
+                }
 <to be read again> 
-                   \par 
-l.16 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+                   \end 
+<argument> \end 
+                \enspace 
+\llap #1->\hbox to\z@ {\hss #1
+                              }
+\textindent #1->\indent \llap {#1\enspace }
+                                           \ignorespaces 
+l.13 \end
+         {itemize}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-)
-! Emergency stop.
-<*> ...top/MTV-telesundhed/Latex/Lfiler/Logbog.tex
-                                                  
-*** (job aborted, no legal \end found)
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] )</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/Lfiler/.texpadtmp/Logbog.pdf" (1 page, 16475 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
