@@ -2,12 +2,26 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/MTV rapport.aux
 The style file: plain.bst
+A level-1 auxiliary file: MVTfiler/Forside.aux
+A level-1 auxiliary file: MVTfiler/Resume.aux
+A level-1 auxiliary file: MVTfiler/Abstract.aux
+A level-1 auxiliary file: MVTfiler/Forord.aux
+A level-1 auxiliary file: MVTfiler/Forkortelser.aux
+A level-1 auxiliary file: MVTfiler/Formler.aux
 A level-1 auxiliary file: MVTfiler/Indledning.aux
+A level-1 auxiliary file: MVTfiler/Metode.aux
+A level-1 auxiliary file: MVTfiler/Teknologi.aux
+A level-1 auxiliary file: MVTfiler/Borger.aux
+A level-1 auxiliary file: MVTfiler/Organisation.aux
+A level-1 auxiliary file: MVTfiler/Okonomi.aux
+A level-1 auxiliary file: MVTfiler/Konklusion.aux
+A level-1 auxiliary file: MVTfiler/Perspektivering.aux
+A level-1 auxiliary file: MVTfiler/Referenceliste.aux
 I found no \citation commands---while reading file /Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/MTV rapport.aux
 I found no \bibdata command---while reading file /Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/MTV rapport.aux
 You've used 0 entries,
             2118 wiz_defined-function locations,
-            497 strings with 4214 characters,
+            511 strings with 4521 characters,
 and the built_in function-call counts, 18 in all, are:
 = -- 0
 > -- 0
