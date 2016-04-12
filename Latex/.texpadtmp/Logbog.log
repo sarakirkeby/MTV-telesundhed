@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.16)  7 APR 2016 13:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.10)  12 APR 2016 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1583,7 +1583,7 @@ File: upzd.fd 2001/06/04 font definitions for U/pzd.
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.09.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.18.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.04.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.08.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.10.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.15.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.31.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.04.07.aux))
+)) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.09.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.18.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.04.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.08.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.10.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.15.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.31.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.04.07.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.04.12.aux))
 \openout1 = `Logbog.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -1667,7 +1667,7 @@ LaTeX Info: Redefining \nameref on input line 6.
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
 LaTeX Info: Redefining \nameref on input line 6.
-(/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.out) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.out)
+(/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.out) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.out)
 \@outlinefile=\write4
 \openout4 = `Logbog.out'.
 
@@ -1834,33 +1834,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--38
 
  []
 
-
-./Lfiler/2016.03.15.tex:44: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 \\
-       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 )
-
-./Logbog.tex:13: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \include{Lfiler/2016.03.15}
-                                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
@@ -1869,7 +1843,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
-[6
+ [6
 
 
 ]
@@ -1890,19 +1864,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
-
-./Lfiler/2016.03.31.tex:46: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 �
-      �konomi:
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining danish shorthand "~
@@ -1915,95 +1876,9 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
-
-./Lfiler/2016.03.31.tex:52: LaTeX Error: \begin{document} ended by \end{itm}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 \end{itm}
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Lfiler/2016.03.31.tex:52: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.52 \end{itm}
-              
-Things are pretty mixed up, but I think the worst is over.
-
-
-./Lfiler/2016.03.31.tex:54: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 P
-      atient/etik:
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Lfiler/2016.03.31.tex:64: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.64 O
-      rganisation:
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Lfiler/2016.03.31.tex:72: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--84
+Underfull \hbox (badness 10000) in paragraph at lines 76--83
 
  []
-
-
-./Lfiler/2016.03.31.tex:85: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 \end{itemize} \\\\
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Lfiler/2016.03.31.tex:86: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 M
-      ere artikel søgning inden for de samme emner som vi fik tildelt sidst...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 )
 Package babel Info: Redefining danish shorthand "|
@@ -2028,166 +1903,179 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
  []
 
 
-./Lfiler/2016.04.07.tex:31: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 ...r gode råd til diverse ting og sager.\\ 
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--33
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 [9
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 83--85
+Underfull \hbox (badness 1377) in paragraph at lines 84--86
 \T1/cmr/m/n/10.95 Fungerer Appinux' l�sning optimalt i forhold til m�let med implementeringen af
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 95.
 [10]
-
-./Lfiler/2016.04.07.tex:105: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.105 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--110
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 
  []
 
 
-./Lfiler/2016.04.07.tex:117: LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.117 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 137.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 137.
+[11])
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 15.
+ [12]
+\openout2 = `Lfiler/2016.04.12.aux'.
+
+ (./Lfiler/2016.04.12.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--21
 
  []
 
 )
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 15.
+(babel)             in language  on input line 16.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 15.
+(babel)             in language  on input line 16.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 15.
+(babel)             in language  on input line 16.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 15.
- [11] 
+(babel)             in language  on input line 16.
+ [13
+
+
+
+] 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 16.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 16.
-(/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.09.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.18.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.04.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.08.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.10.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.15.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.31.aux) (/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.04.07.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 16.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 16.
+(babel)             in language  on input line 17.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
+(/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.aux (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.09.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.02.18.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.04.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.08.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.10.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.15.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.03.31.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.04.07.aux) (/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Lfiler/2016.04.12.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
 Package rerunfilecheck Info: File `Logbog.out' has not changed.
 (rerunfilecheck)             Checksum: A9FC0820F07E19BA25033D37AFB316BC;352.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 16.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
  ) 
 Here is how much of TeX's memory you used:
- 26904 strings out of 493117
- 481195 string characters out of 6135433
+ 26918 strings out of 493117
+ 482909 string characters out of 6135433
  798920 words of memory out of 5000000
- 29932 multiletter control sequences out of 15000+600000
+ 29935 multiletter control sequences out of 15000+600000
  17001 words of font info for 52 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  40i,12n,40p,10459b,846s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on "/Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Logbog.pdf" (11 pages, 99957 bytes).
+Output written on "/Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Logbog.pdf" (13 pages, 101545 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
