@@ -9,7 +9,7 @@
 \\
 \textbf{Dagsorden}
 \begin{itemize}
-\item[Intro til den digitale infrastruktur]
+\item Intro til den digitale infrastruktur
 \end{itemize}
 
 \textbf{Referat} 
@@ -18,14 +18,14 @@ Status er fint i begge grupper.\\
 \textbf{Videoløsning generelt}\\
 Det der skal være opfyldt i en telemedicin løsning er f.eks.; 
 \begin{itemize}
-	\item[At undervise borgerne.]
-	\item[Udstyr og lokalet skal være i orden]
-	\item[Infrastrukturen skal være god. (God bredbåndsforbindelse)]
-	\item[Kvaliteten af videoen som bliver overført skal være i orden.]
-	\item[Der skal være datasikkerhed tilstede. Kryptering.]
-	\item[Brugervenlighed både for borger og personale]
-	\item[Borgerne skal være villige til at implementere det her]
-	\item[Video Codec]
+	\item At undervise borgerne.
+	\item Udstyr og lokalet skal være i orden
+	\item Infrastrukturen skal være god. (God bredbåndsforbindelse)
+	\item Kvaliteten af videoen som bliver overført skal være i orden.
+	\item Der skal være datasikkerhed tilstede. Kryptering.
+	\item Brugervenlighed både for borger og personale
+	\item Borgerne skal være villige til at implementere det her
+	\item Video Codec
 \end{itemize}
 I rapporten Online Velfærd var grunden at alle ikke blev koblet op, internet kvaliteten. Da de derfor prøvede at køre et nyt forsøg (forsøg nr. 2), så havde dets ry allerede været der. Indstillingen til projektet var derfor ikke særlig god. Den gode indstilling skal komme oppe fra, men det er vigtigt at alle lige fra ledelsen til borgeren er med på at få det her til at fungere.\\
 Ved videoer, så er det vigtigt at videocodec'et er i orden (den måde man programerer videoen på). Nogen gange can det være en central server som udgiver videoen og som der altså bliver 'streamet' fra. Andre gange kan det være at videon ligger lokalt på devicet. Mennesket fungerer sådan, at vi kan godt holde til at videoen glipper lidt, men lyden må helst ikke glippe. Når vi ikke har så meget bredbånd, kan man sætte FPS'en ned, og så bliver det bedre. Lyden er det sidste der glipper. Der kan ske alle mulige fejl i videoen før der sker noget med lyden. I gamle dage rettede det sig ikke ind efter det, men når det kom under et kritisk niveau, så stoppede det. Der er to generelle codec'er, VBR og FBR. \\
@@ -34,47 +34,47 @@ Forindstilling er rigtig vigtig - det kan betyde forskellen mellem at et projekt
 Virksomheder har sit eget net, som ikke rigtig er afhængig af nogen. De er dog gået mere og mere over til cloud løsninger. 
 Der er forskellige kvalitetsparametre; 
 \begin{itemize}
-\item[Dækning]
-\item[Kapacitet]
-\item[Pålidelighed]
+\item Dækning
+\item Kapacitet
+\item Pålidelighed
 \end{itemize}
-Ud over disse parametre, så er der også sådan noget som kvalitet. Synkrone tjenester er når der ikke er en buffer, og man derfor skal vente på den anden. Ved ikke synkrone tjenester, så behver det ikke at være real time, og hvis det går galt, så kan den tage af bufferen. Det kan man ikke hvis det er en synkron forbindelse. \\
+Ud over disse parametre, så er der også sådan noget som kvalitet. Synkrone tjenester er når der ikke er en buffer, og man derfor skal vente på den anden. Ved ikke synkrone tjenester, så behøver det ikke at være real time, og hvis det går galt, så kan den tage af bufferen. Det kan man ikke hvis det er en synkron forbindelse. \\
 \begin{itemize}
-\item[Sms - Ikke synkron men vi bliver nervøs]
-\item[Taletelefoni - Synkron]
-\item[Dataforbindelse til chat - Synkron]
-\item[Dataforbindelse til informationsoverførsel - Lille tidstolerence, men ikke synkron]
-\item[Dataforbindelse til chat - Synkron]
-\item[Dataforbindelse til store filoverførsler - Ikke synkron, stor tidstolerence]
-\item[Video - Synkron]
+\item Sms - Ikke synkron men vi bliver nervøs
+\item Taletelefoni - Synkron
+\item Dataforbindelse til chat - Synkron
+\item Dataforbindelse til informationsoverførsel - Lille tidstolerence, men ikke synkron
+\item Dataforbindelse til chat - Synkron
+\item Dataforbindelse til store filoverførsler - Ikke synkron, stor tidstolerence
+\item Video - Synkron
 \end{itemize}
 Netplan siger at en løsning kan bruge kommunikation på forskellige måder og have forskellige krav til forbindelser, og det er det man kan se overfor.\\
 Netplan siger der er to forskellige vinkler til velfærdsydelser; Borgerens perspektiv, og medarbejderens i kommunens perspektiv. De sidst nævnte skal ofte løse sine opgaver på farten. De skal hele tiden have opdateret deres arbejdsværktøjer og de er meget afhængig af at få opdateret deres ting på farten. De fleste af de løsninger der findes i dag, er afængig af en fast lokation, men NP regner med at det snart ændrer sig.\\ \\ 
 \textbf{Eksempler på telemedicin}\\
 Der er mange eksempler på telemedicin.\\
 \begin{itemize}
-\item[Welfare Denmark Virtuel Genoptræning]
+\item Welfare Denmark Virtuel Genoptræning
 \end{itemize}
 Fungerer som kinect kamera. Der bliver ikke filmet, men registrerer ændringer i bevægelser. Dataen bliver sendt ind bagefter, og de mødes bagefter til evaluering. Fordi det kun er bevægelser der bliver registreret, er det meget let data der bliver sendt rundt. \\
 \begin{itemize}
-\item[KMD Viva og Viewcare]
+\item KMD Viva og Viewcare
 \end{itemize}
 Video er den mest krævende løsningskomponent, men efter at codecset er blevet skiftet, så fungerer det meget bedre, fordi forbindelsen bliver fastholdt.\\ 
 \begin{itemize}
-\item[KMD SmartCare]
+\item KMD SmartCare
 \end{itemize}
 Dette er en lille app til deres omsorgsjournal, som fungerer når den er offline. Der er datasikkerhed som gør at man ikke kan bryde ind i den, men man kan registrere oplysninger, og så uploader appen informationen når den får net igen. Det virker dog ikke den anden gang, så informationen skal hentes ned før de tager det ud. Hvis der kommer ændringer i deres journaler før de er der ude, er de på den.\\
 \begin{itemize}
-\item[Medarbejdermobilitet: Virtuel Hjemmepleje]
+\item Medarbejdermobilitet: Virtuel Hjemmepleje
 \end{itemize}
 De har krabben. Det gør det muligt at bruge alle mobilleverandørers båndbredde på samme tid. Den skal dog være forsynet med simkort til alle de forskellige dækninger. Det bliver brugt i ambulancer. Der skal være en ved hver borger dog. Den er dyr, men har været rigtig god. Efter 4G forbindelsen er blevet opdateret, er der kommet en meget bedre dækning godt nok. \\
 \begin{itemize}
-\item[TeleCare Nord]
+\item TeleCare Nord
 \end{itemize}
 Her bruger man også tablets med simkort i. Hvis vi altid bruger den samme leverendør, så er det ikke altid at man får en god dækning. Selve forbindelsen og udstyret er betalt af kommunen.\\
 \textbf{Fordele og ulemper ved fast udstyr}\\
 \begin{itemize}
-\item[Fordele]
+\item Fordele
 \end{itemize}
 - Billigere\\
 - Kendskab til eget udstyr\\
@@ -83,7 +83,7 @@ Her bruger man også tablets med simkort i. Hvis vi altid bruger den samme lever
 - Hvis App -> Mobilitet\\
 \\
 \begin{itemize}
-\item[Ulemper]
+\item Ulemper
 \end{itemize}
 - Support\\
 - Sikkerhed (Skal kapsles ind)\\
