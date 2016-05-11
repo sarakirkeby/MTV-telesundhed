@@ -1,0 +1,76 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{hp1}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rowling}{R.}%
+     {J.K.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Gyldendal}%
+  }
+  \strng{namehash}{RJ1}
+  \strng{fullhash}{RJ1}
+  \field{sortinit}{R}
+  \field{title}{Harry Potter og De Vises Sten}
+  \field{year}{1997}
+\endentry
+
+\entry{hp4}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rowling}{R.}%
+     {J.K.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Gyldendal}%
+  }
+  \strng{namehash}{RJ1}
+  \strng{fullhash}{RJ1}
+  \field{sortinit}{R}
+  \field{title}{Harry Potter og Flammernes Pokal}
+  \field{year}{2000}
+\endentry
+
+\entry{hp2}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rowling}{R.}%
+     {J.K.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Gyldendal}%
+  }
+  \strng{namehash}{RJ1}
+  \strng{fullhash}{RJ1}
+  \field{sortinit}{R}
+  \field{title}{Harry Potter og Hemmelighedernes Kammer}
+  \field{year}{1998}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
