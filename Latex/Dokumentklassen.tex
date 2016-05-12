@@ -13,7 +13,8 @@
 \usepackage{fixltx2e}						% Retter forskellige fejl i LaTeX-kernen
 
 \usepackage{lastpage}						% Total antal sider opdateres automatisk ved \pageref{LastPage}
-																			
+														\usepackage[backend=bibtex]{biblatex}
+\addbibresource{ref.bib}				
 %% Figurer og tabeller (floats) %%
 \usepackage{graphicx} 						% Håndtering af eksterne billeder (JPG, PNG, EPS, PDF)
 \usepackage{multicol}         	            	% Muliggør output i spalter
@@ -34,7 +35,7 @@
 
 %% Referencer og kilder %%
 \usepackage[danish]{varioref}				% Muliggør bl.a. krydshenvisninger med sidetal (\vref)
-\usepackage{natbib}							% Udvidelse med naturvidenskabelige citationsmodeller
+%\usepackage{natbib}							% Udvidelse med naturvidenskabelige citationsmodeller
 \usepackage{xr}							    % Referencer til eksternt dokument med \externaldocument{<NAVN>}
 
 %% Misc. %%
@@ -202,7 +203,7 @@
 \usepackage[hyphenbreaks]{breakurl}       %% Bruges til websiders url'er.
 \renewcommand{\UrlFont}{                  %% Definerer url-font.
 \small\ttfamily}                          %
-\bibliographystyle{plain}                 %% Definere bibliografien. Ses til sidst i dokumentet i kapitlet Litteratur.
+%\bibliographystyle{plain}                 %% Definere bibliografien. Ses til sidst i dokumentet i kapitlet Litteratur.
 \usepackage{amssymb} 
 \usepackage{pifont}
 %\newcommand{\xmark{\ding{55}}			 % Opretter et unchecked mark
