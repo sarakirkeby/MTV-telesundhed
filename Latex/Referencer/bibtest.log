@@ -1,12 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.8)  12 MAY 2016 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.3)  12 MAY 2016 18:04
 entering extended mode
-**bibtest.tex
+**./bibtest.tex
 (bibtest.tex
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\articl
+e.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12
+.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,32 +25,40 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bi
+blatex.sty"
 Package: biblatex 2016/03/03 v3.3 programmable bibliographies (PK/JW/AB)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex_legacy.sty"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bi
+blatex_legacy.sty"
 Package: biblatex_legacy 2016/03/03 v3.3 programmable bibliographies (bibtex) (
 PK/JW/AB)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\et
+oolbox.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count87
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\ke
+yval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logr
+eq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count88
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logr
+eq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen
+.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -168,13 +180,15 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bl
+x-compat.def"
 File: blx-compat.def 2016/03/03 v3.3 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex_legacy.def' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex_legacy.def"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bi
+blatex_legacy.def"
 File: biblatex_legacy.def 
 \c@textcitecount=\count193
 \c@textcitetotal=\count194
@@ -187,20 +201,23 @@ File: biblatex_legacy.def
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bb
+x\numeric.bbx"
 File: numeric.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bb
+x\standard.bbx"
 File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count200
-\c@bbx:relatedtotal=\count201
+\c@bbx:relatedcount=\count266
+\c@bbx:relatedtotal=\count267
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cb
+x\numeric.cbx"
 File: numeric.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -217,19 +234,22 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bi
+blatex.cfg"
 File: biblatex.cfg 
 )))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
+("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lb
+x\english.lbx"
 File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count202
-\@quotereset=\count203
+\@quotelevel=\count268
+\@quotereset=\count269
+ (bibtest.aux)
+\openout1 = `bibtest.aux'.
 
-(bibtest.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
@@ -246,6 +266,8 @@ Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'ascii'.
+\openout3 = `bibtest-blx.bib'.
+
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'bibtest.bbl' found.
  (bibtest.bbl)
@@ -253,24 +275,27 @@ Package biblatex Info: Reference section=0 on input line 4.
 Package biblatex Info: Reference segment=0 on input line 4.
  [1
 
-{C:/Users/Jeppe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (bibtest.au
-x)
+{C:/Users/JEPPEDESKTOP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (bib
+test.aux)
 Package logreq Info: Writing requests to 'bibtest.run.xml'.
+\openout1 = `bibtest.run.xml'.
+
  )
 (\end occurred when \iftrue on line 4 was incomplete) 
 Here is how much of TeX's memory you used:
- 5100 strings out of 493673
- 85830 string characters out of 3141531
- 233205 words of memory out of 3000000
- 8470 multiletter control sequences out of 15000+200000
+ 5104 strings out of 493634
+ 86817 string characters out of 3132384
+ 234494 words of memory out of 3000000
+ 8511 multiletter control sequences out of 15000+200000
  4891 words of font info for 18 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 35i,4n,45p,821b,800s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bibtest.pdf (1 page, 33006 bytes).
+ 36i,4n,45p,823b,798s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/JEPPEDESKTOP/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
+ers/JEPPEDESKTOP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Users/JEPPEDESKTOP/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on bibtest.pdf (1 page, 35141 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
