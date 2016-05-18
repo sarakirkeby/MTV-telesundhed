@@ -13,7 +13,18 @@ Dette afsnit bygger i høj grad på informationer fra samtaler og emailkorrespon
 Metodeafsnit ikke færdiggskrevet.
 
 \section{Resultater}
-TABEL FRA MOHAMED
+\begin{table}[H]
+\centering
+
+\label{my-label}
+\begin{tabularx}{\textwidth}{X|X}
+\hline
+\cellcolor{blue!25} \textbf{Infrastruktur} &\cellcolor{blue!25}\cellcolor{blue!25}\textbf{Sikkerhed} \\ \hline
+Antal brugere          & Minimum                                    \\ \hline
+
+\end{tabularx}
+\caption{My caption}
+\end{table}
 \subsection{Appinux}
 Appinux er en multiplatformsløsning, der giver mulighed for at vælge og fravælge over 70 moduler efter den gågældende kundes behov. Appinux er platformsuafhængig i den forstand, at det kan køre på PC'er via Google Chrome, samt  smartphones og tablets, der er forsynet med Android v. 4.02.\\Der gives, udover Appinux' egne moduler, også adgang til, at 3. partsfirmaer kan implementere deres egne moduler under forudsætning af, at der finder et samarbejde sted(?). Dette er fx i form af et genoptræningsmodul.\\Videokonferencesystemet er Appinux' eget modul. Platformen fungerer ved, at Chrome åbnes på enten en PC eller via en app på en smartphone eller tablet, hvorved der er adgang til modulet, som anvender WebRTC. WebRTC er et open source-projekt, som giver mulighed for realtidskommunikation. Det har den funktion, at videokvaliteten bliver justeret efter tilgængelig båndbredde og CPU-kraft hos hhv. afsender og modtager. Det vurderes af Appinux, at en båndbredde på 512kbit/s er minimumskrav for at videokonferencesystemet kører flydende, hvilket deraf stiller krav om, at enheden er koblet på internettet i form af enten wifi (eller kablet computer) eller mobilt bredbånd via sim-kortet.
 \\ \\
