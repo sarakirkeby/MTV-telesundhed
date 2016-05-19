@@ -32,6 +32,8 @@ A level-1 auxiliary file: Lfiler/2016.05.10a.aux
 A level-1 auxiliary file: Lfiler/2016.05.11.aux
 A level-1 auxiliary file: Lfiler/2016.05.13.aux
 A level-1 auxiliary file: Lfiler/2016.05.17.aux
+A level-1 auxiliary file: Lfiler/2016.05.17a.aux
+A level-1 auxiliary file: Lfiler/2016-05-19.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -50,7 +52,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 You've used 1 entry,
             6047 wiz_defined-function locations,
-            1159 strings with 8921 characters,
+            1161 strings with 8964 characters,
 and the built_in function-call counts, 1306 in all, are:
 = -- 64
 > -- 58
