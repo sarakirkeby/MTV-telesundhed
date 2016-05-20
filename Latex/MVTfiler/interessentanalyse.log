@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.3)  9 MAR 2016 18:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.13)  20 MAY 2016 09:09
 entering extended mode
 **./interessentanalyse.tex
 (interessentanalyse.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (Dokumentklassen.tex)
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\articl
-e.cls"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\artic
+le.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10
-.clo"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size1
+0.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,23 +25,23 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inpute
-nc.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\input
+enc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.d
-ef"
-File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.
+def"
+File: utf8.def 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.
-dfu"
-File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc
+.dfu"
+File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -111,94 +111,50 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00FD (decimal 253)
    defining Unicode char U+00FE (decimal 254)
    defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0100 (decimal 256)
-   defining Unicode char U+0101 (decimal 257)
    defining Unicode char U+0102 (decimal 258)
    defining Unicode char U+0103 (decimal 259)
    defining Unicode char U+0104 (decimal 260)
    defining Unicode char U+0105 (decimal 261)
    defining Unicode char U+0106 (decimal 262)
    defining Unicode char U+0107 (decimal 263)
-   defining Unicode char U+0108 (decimal 264)
-   defining Unicode char U+0109 (decimal 265)
-   defining Unicode char U+010A (decimal 266)
-   defining Unicode char U+010B (decimal 267)
    defining Unicode char U+010C (decimal 268)
    defining Unicode char U+010D (decimal 269)
    defining Unicode char U+010E (decimal 270)
    defining Unicode char U+010F (decimal 271)
    defining Unicode char U+0110 (decimal 272)
    defining Unicode char U+0111 (decimal 273)
-   defining Unicode char U+0112 (decimal 274)
-   defining Unicode char U+0113 (decimal 275)
-   defining Unicode char U+0114 (decimal 276)
-   defining Unicode char U+0115 (decimal 277)
-   defining Unicode char U+0116 (decimal 278)
-   defining Unicode char U+0117 (decimal 279)
    defining Unicode char U+0118 (decimal 280)
    defining Unicode char U+0119 (decimal 281)
    defining Unicode char U+011A (decimal 282)
    defining Unicode char U+011B (decimal 283)
-   defining Unicode char U+011C (decimal 284)
-   defining Unicode char U+011D (decimal 285)
    defining Unicode char U+011E (decimal 286)
    defining Unicode char U+011F (decimal 287)
-   defining Unicode char U+0120 (decimal 288)
-   defining Unicode char U+0121 (decimal 289)
-   defining Unicode char U+0122 (decimal 290)
-   defining Unicode char U+0123 (decimal 291)
-   defining Unicode char U+0124 (decimal 292)
-   defining Unicode char U+0125 (decimal 293)
-   defining Unicode char U+0128 (decimal 296)
-   defining Unicode char U+0129 (decimal 297)
-   defining Unicode char U+012A (decimal 298)
-   defining Unicode char U+012B (decimal 299)
-   defining Unicode char U+012C (decimal 300)
-   defining Unicode char U+012D (decimal 301)
-   defining Unicode char U+012E (decimal 302)
-   defining Unicode char U+012F (decimal 303)
    defining Unicode char U+0130 (decimal 304)
    defining Unicode char U+0131 (decimal 305)
    defining Unicode char U+0132 (decimal 306)
    defining Unicode char U+0133 (decimal 307)
-   defining Unicode char U+0134 (decimal 308)
-   defining Unicode char U+0135 (decimal 309)
-   defining Unicode char U+0136 (decimal 310)
-   defining Unicode char U+0137 (decimal 311)
    defining Unicode char U+0139 (decimal 313)
    defining Unicode char U+013A (decimal 314)
-   defining Unicode char U+013B (decimal 315)
-   defining Unicode char U+013C (decimal 316)
    defining Unicode char U+013D (decimal 317)
    defining Unicode char U+013E (decimal 318)
    defining Unicode char U+0141 (decimal 321)
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0143 (decimal 323)
    defining Unicode char U+0144 (decimal 324)
-   defining Unicode char U+0145 (decimal 325)
-   defining Unicode char U+0146 (decimal 326)
    defining Unicode char U+0147 (decimal 327)
    defining Unicode char U+0148 (decimal 328)
    defining Unicode char U+014A (decimal 330)
    defining Unicode char U+014B (decimal 331)
-   defining Unicode char U+014C (decimal 332)
-   defining Unicode char U+014D (decimal 333)
-   defining Unicode char U+014E (decimal 334)
-   defining Unicode char U+014F (decimal 335)
    defining Unicode char U+0150 (decimal 336)
    defining Unicode char U+0151 (decimal 337)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
    defining Unicode char U+0154 (decimal 340)
    defining Unicode char U+0155 (decimal 341)
-   defining Unicode char U+0156 (decimal 342)
-   defining Unicode char U+0157 (decimal 343)
    defining Unicode char U+0158 (decimal 344)
    defining Unicode char U+0159 (decimal 345)
    defining Unicode char U+015A (decimal 346)
    defining Unicode char U+015B (decimal 347)
-   defining Unicode char U+015C (decimal 348)
-   defining Unicode char U+015D (decimal 349)
    defining Unicode char U+015E (decimal 350)
    defining Unicode char U+015F (decimal 351)
    defining Unicode char U+0160 (decimal 352)
@@ -207,18 +163,10 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+0163 (decimal 355)
    defining Unicode char U+0164 (decimal 356)
    defining Unicode char U+0165 (decimal 357)
-   defining Unicode char U+0168 (decimal 360)
-   defining Unicode char U+0169 (decimal 361)
-   defining Unicode char U+016A (decimal 362)
-   defining Unicode char U+016B (decimal 363)
-   defining Unicode char U+016C (decimal 364)
-   defining Unicode char U+016D (decimal 365)
    defining Unicode char U+016E (decimal 366)
    defining Unicode char U+016F (decimal 367)
    defining Unicode char U+0170 (decimal 368)
    defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0172 (decimal 370)
-   defining Unicode char U+0173 (decimal 371)
    defining Unicode char U+0174 (decimal 372)
    defining Unicode char U+0175 (decimal 373)
    defining Unicode char U+0176 (decimal 374)
@@ -230,31 +178,10 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+017C (decimal 380)
    defining Unicode char U+017D (decimal 381)
    defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+01CD (decimal 461)
-   defining Unicode char U+01CE (decimal 462)
-   defining Unicode char U+01CF (decimal 463)
-   defining Unicode char U+01D0 (decimal 464)
-   defining Unicode char U+01D1 (decimal 465)
-   defining Unicode char U+01D2 (decimal 466)
-   defining Unicode char U+01D3 (decimal 467)
-   defining Unicode char U+01D4 (decimal 468)
-   defining Unicode char U+01E2 (decimal 482)
-   defining Unicode char U+01E3 (decimal 483)
-   defining Unicode char U+01E6 (decimal 486)
-   defining Unicode char U+01E7 (decimal 487)
-   defining Unicode char U+01E8 (decimal 488)
-   defining Unicode char U+01E9 (decimal 489)
-   defining Unicode char U+01EA (decimal 490)
-   defining Unicode char U+01EB (decimal 491)
-   defining Unicode char U+01F0 (decimal 496)
-   defining Unicode char U+01F4 (decimal 500)
-   defining Unicode char U+01F5 (decimal 501)
    defining Unicode char U+0218 (decimal 536)
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+01E02 (decimal 7682)
-   defining Unicode char U+01E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
@@ -273,9 +200,9 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc
-.dfu"
-File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1en
+c.dfu"
+File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -315,9 +242,9 @@ File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc
-.dfu"
-File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsen
+c.dfu"
+File: omsenc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -340,30 +267,30 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\ams
-math.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+smath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\ams
-text.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+stext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\ams
-gen.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen103
 ))
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\ams
-bsy.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\ams
-opn.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
@@ -404,52 +331,48 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\bab
-el.sty"
-Package: babel 2016/02/09 3.9q The Babel package
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\ba
+bel.sty"
+Package: babel 2016/01/08 3.9n The Babel package
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\swi
-tch.def"
-File: switch.def 2016/02/09 3.9q Babel switching mechanism
-)
 *************************************
 * Local config file bblopts.cfg used
 *
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bb
-lopts.cfg"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\b
+blopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danis
-h\danish.ldf"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-dani
+sh\danish.ldf"
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\bab
-el.def"
-File: babel.def 2016/02/09 3.9q Babel common definitions
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\ba
+bel.def"
+File: babel.def 2016/01/08 3.9n Babel common definitions
 \babel@savecnt=\count99
 \U@D=\dimen112
 )
 Package babel Info: Making " an active character on input line 82.
 ))
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\am
-sfonts.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+msfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\am
-ssymb.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+mssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabul
-arx.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabu
+larx.sty"
 Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array
-.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\arra
+y.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen113
 \extrarowheight=\dimen114
@@ -465,8 +388,8 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@cols=\count100
 \TX@ftn=\toks22
 )
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float
-.sty"
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\floa
+t.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count101
 \float@exts=\toks23
@@ -489,29 +412,1061 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\um
-sa.fd")
-("C:\Users\JEPPEDESKTOP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\um
-sb.fd") [1
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msa.fd")
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msb.fd")
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.59 \end{tabularx}
+                   
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-{C:/Users/JEPPEDESKTOP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (int
-eressentanalyse.aux) ) 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.59 \end{tabularx}
+                   
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.59 \end{tabularx}
+                   
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 59.
+
+
+Overfull \hbox (39.08342pt too wide) in paragraph at lines 59--59
+[]|\OT1/cmr/m/n/10 Leverandr
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 af
+ []
+
+
+Overfull \hbox (1.3889pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 deo-
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 kon-
+ []
+
+
+Overfull \hbox (0.83333pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 fe-
+ []
+
+
+Overfull \hbox (7.25pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ren-
+ []
+
+
+Overfull \hbox (6.13887pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 cer-
+ []
+
+
+Overfull \hbox (2.55556pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 sy-
+ []
+
+
+Overfull \hbox (5.6111pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ste-
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 met
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 i
+ []
+
+
+Overfull \hbox (28.55563pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Favrskov
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Kom-
+ []
+
+
+Overfull \hbox (6.94446pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ne.
+ []
+
+
+Overfull \hbox (6.3889pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Ap-
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 pi-
+ []
+
+
+Overfull \hbox (6.11115pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 nux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 er
+ []
+
+
+Overfull \hbox (17.55559pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 social-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+
+ []
+
+
+Overfull \hbox (13.94447pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 sund-
+ []
+
+
+Overfull \hbox (12.83334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 heds-
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 plat-
+ []
+
+
+Overfull \hbox (10.3056pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 form
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 (kil-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 de:
+ []
+
+
+Overfull \hbox (3.8889pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ap-
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 pi-
+ []
+
+
+Overfull \hbox (8.88893pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 nux'
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hjem-
+ []
+
+
+Overfull \hbox (12.83334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mesi-
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 de).
+ []
+
+
+Overfull \hbox (2.5pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 In-
+ []
+
+
+Overfull \hbox (5.58333pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (1.7222pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 es-
+ []
+
+
+Overfull \hbox (1.16666pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 se:
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 XX| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (2.5pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 In-
+ []
+
+
+Overfull \hbox (5.58333pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (1.7222pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 es-
+ []
+
+
+Overfull \hbox (1.16666pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 se:
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 XX 
+ []
+
+
+Overfull \hbox (10.27782pt too wide) in paragraph at lines 59--59
+[]\OT1/cmr/m/n/10 [3ex]
+ []
+
+
+Overfull \hbox (30.7081pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 Byradet| 
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.59 \end{tabularx}
+                   
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (51.86124pt too wide) in paragraph at lines 59--59
+[]|\OT1/cmr/m/n/10 ldreomradet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 i
+ []
+
+
+Overfull \hbox (28.55563pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Favrskov
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Kom-
+ []
+
+
+Overfull \hbox (6.94446pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (4.47224pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 har
+ []
+
+
+Overfull \hbox (40.05566pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 malstning
+ []
+
+
+Overfull \hbox (6.11115pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 om,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 at
+ []
+
+
+Overfull \hbox (3.33333pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 l-
+ []
+
+
+Overfull \hbox (3.91667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 dre
+ []
+
+
+Overfull \hbox (8.08336pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 bor-
+ []
+
+
+Overfull \hbox (2.77777pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 re
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 i
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 kom-
+ []
+
+
+Overfull \hbox (6.94446pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 nen
+ []
+
+
+Overfull \hbox (5.27782pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 kan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 fa
+ []
+
+
+Overfull \hbox (14.16672pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hjlp
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ved
+ []
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 be-
+ []
+
+
+Overfull \hbox (5.55559pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hov
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 (kil-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 de:
+ []
+
+
+Overfull \hbox (25.91675pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 favrskov
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 kom-
+ []
+
+
+Overfull \hbox (6.94446pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (3.94444pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 nes
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hjem-
+ []
+
+
+Overfull \hbox (12.83334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mesi-
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 de). 
+ []
+
+
+Overfull \hbox (30.69446pt too wide) in paragraph at lines 59--59
+[]\OT1/cmr/m/n/10 Interesse:
+ []
+
+
+Overfull \hbox (1.11111pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 At
+ []
+
+
+Overfull \hbox (5.33334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 sik-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 re
+ []
+
+
+Overfull \hbox (3.61115pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hj
+ []
+
+
+Overfull \hbox (5.63887pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ser-
+ []
+
+
+Overfull \hbox (1.3889pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ce-
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ni-
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 veau
+ []
+
+
+Overfull \hbox (1.97224pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (8.08336pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 bor-
+ []
+
+
+Overfull \hbox (2.77777pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 re
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 i
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hjem-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 meplej-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 i
+ []
+
+
+Overfull \hbox (28.55563pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Favrskov
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Kom-
+ []
+
+
+Overfull \hbox (6.94446pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ne. 
+ []
+
+
+Overfull \hbox (10.27782pt too wide) in paragraph at lines 59--59
+[]\OT1/cmr/m/n/10 [3ex]
+ []
+
+
+Overfull \hbox (19.38872pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 Sund-
+ []
+
+
+Overfull \hbox (16.4179pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 heds-
+ []
+
+
+Overfull \hbox (10.60405pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 cen-
+ []
+
+
+Overfull \hbox (4.4791pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 ter
+ []
+
+
+Overfull \hbox (14.81233pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 Had-
+ []
+
+
+Overfull \hbox (10.66792pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 sten| 
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.59 \end{tabularx}
+                   
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (23.8056pt too wide) in paragraph at lines 59--59
+[]|\OT1/cmr/m/n/10 Borgere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 er
+ []
+
+
+Overfull \hbox (7.52779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 per-
+ []
+
+
+Overfull \hbox (2.27777pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 so-
+ []
+
+
+Overfull \hbox (6.69446pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ner,
+ []
+
+
+Overfull \hbox (7.2778pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 som
+ []
+
+
+Overfull \hbox (4.47224pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 har
+ []
+
+
+Overfull \hbox (10.02782pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 brug
+ []
+
+
+Overfull \hbox (1.97224pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hjem-
+ []
+
+
+Overfull \hbox (18.88892pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 meple-
+ []
+
+
+Overfull \hbox (9.33336pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Bor-
+ []
+
+
+Overfull \hbox (6.69444pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ger-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 er
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 di-
+ []
+
+
+Overfull \hbox (6.97223pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 rek-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 te
+ []
+
+
+Overfull \hbox (8.36113pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 bru-
+ []
+
+
+Overfull \hbox (2.77777pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 re
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 af
+ []
+
+
+Overfull \hbox (1.3889pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 deo-
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 kon-
+ []
+
+
+Overfull \hbox (0.83333pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 fe-
+ []
+
+
+Overfull \hbox (7.25pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ren-
+ []
+
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ce-
+ []
+
+
+Overfull \hbox (2.55556pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 sy-
+ []
+
+
+Overfull \hbox (5.6111pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ste-
+ []
+
+
+Overfull \hbox (9.44447pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 met. 
+ []
+
+
+Overfull \hbox (30.69446pt too wide) in paragraph at lines 59--59
+[]\OT1/cmr/m/n/10 Interesse:
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 XX 
+ []
+
+
+Overfull \hbox (10.27782pt too wide) in paragraph at lines 59--59
+[]\OT1/cmr/m/n/10 [3ex]
+ []
+
+
+Overfull \hbox (12.57626pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 Net-
+ []
+
+
+Overfull \hbox (11.56235pt too wide) in paragraph at lines 59--59
+\OT1/cmr/bx/n/10 plan| 
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.59 \end{tabularx}
+                   
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (30.63896pt too wide) in paragraph at lines 59--59
+[]|\OT1/cmr/m/n/10 Selskaber
+ []
+
+
+Overfull \hbox (3.91667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 der
+ []
+
+
+Overfull \hbox (6.75002pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 star
+ []
+
+
+Overfull \hbox (1.97224pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 den
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 di-
+ []
+
+
+Overfull \hbox (1.11111pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 gi-
+ []
+
+
+Overfull \hbox (2.22223pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 le
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (5.30557pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 fra-
+ []
+
+
+Overfull \hbox (15.9167pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 struk-
+ []
+
+
+Overfull \hbox (3.36113pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 tur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 i
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 kom-
+ []
+
+
+Overfull \hbox (6.94446pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 nen.
+ []
+
+
+Overfull \hbox (4.16664pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 Te-
+ []
+
+
+Overfull \hbox (0.55554pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 le-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 me-
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 di-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 cin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 er
+ []
+
+
+Overfull \hbox (1.3889pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 af-
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hn-
+ []
+
+
+Overfull \hbox (2.7778pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 gig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 af
+ []
+
+
+Overfull \hbox (6.16667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 sta-
+ []
+
+
+Overfull \hbox (1.11113pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 bil
+ []
+
+
+Overfull \hbox (8.08334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hur-
+ []
+
+
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 tig
+ []
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (5.58333pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (3.33333pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ne-
+ []
+
+
+Overfull \hbox (23.3334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 topkob-
+ []
+
+
+Overfull \hbox (8.88893pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ling,
+ []
+
+
+Overfull \hbox (9.44447pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hvil-
+ []
+
+
+Overfull \hbox (3.33334pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ket
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 stil-
+ []
+
+
+Overfull \hbox (1.13889pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ler
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 hje
+ []
+
+
+Overfull \hbox (9.19449pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 krav
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 til
+ []
+
+
+Overfull \hbox (1.66666pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 te-
+ []
+
+
+Overfull \hbox (0.55554pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 le-
+ []
+
+
+Overfull \hbox (4.49998pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 sel-
+ []
+
+
+Overfull \hbox (7.00002pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ska-
+ []
+
+
+Overfull \hbox (7.52779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ber-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 ne.| 
+ []
+
+
+Overfull \hbox (2065.37924pt too wide) in alignment at lines 59--59
+[][] 
+ []
+
+[1
+
+{C:/Users/MelissaKarina/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \vbox (1892.90276pt too high) has occurred while \output is active []
+
+
+[2] (interessentanalyse.aux) ) 
 Here is how much of TeX's memory you used:
- 1997 strings out of 493634
- 23823 string characters out of 3132384
- 84697 words of memory out of 3000000
- 5383 multiletter control sequences out of 15000+200000
+ 1925 strings out of 493634
+ 23380 string characters out of 3131975
+ 90111 words of memory out of 3000000
+ 5313 multiletter control sequences out of 15000+200000
  6252 words of font info for 25 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,10n,24p,244b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/JEPPEDESKTOP/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/JEPPEDESKTOP/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/JEPPEDE
-SKTOP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
-b>
-Output written on interessentanalyse.pdf (1 page, 43985 bytes).
+ 27i,10n,24p,323b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/MelissaKarina/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/MelissaKarina/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Use
+rs/MelissaKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb>
+Output written on interessentanalyse.pdf (2 pages, 49085 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
