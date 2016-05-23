@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.13)  23 MAY 2016 14:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.13)  23 MAY 2016 14:15
 entering extended mode
 **./interessentanalyse.tex
 (interessentanalyse.tex
@@ -416,78 +416,89 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Warning: Citation `appinuxwebsite' on page 1 undefined on input line 13.
 
 
-LaTeX Warning: Citation `favrskovkommune' on page 1 undefined on input line 18.
+LaTeX Warning: Citation `digst1' on page 1 undefined on input line 18.
+
+
+LaTeX Warning: Citation `digst2' on page 1 undefined on input line 19.
+
+
+LaTeX Warning: Citation `favrskovkommune' on page 1 undefined on input line 21.
 
 
 
-LaTeX Warning: Citation `favrskovkommune2' on page 1 undefined on input line 19
+LaTeX Warning: Citation `favrskovkommune2' on page 1 undefined on input line 22
 .
 
 
-LaTeX Warning: Citation `favrskovkommune3' on page 1 undefined on input line 21
+LaTeX Warning: Citation `favrskovkommune3' on page 1 undefined on input line 24
 .
 
 
-LaTeX Warning: Citation `netplan' on page 1 undefined on input line 30.
+LaTeX Warning: Citation `netplan' on page 1 undefined on input line 33.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--34
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--34
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--34
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--34
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--34
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--34
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
 
  []
 
 [1
 
 {C:/Users/MelissaKarina/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(interessentanalyse.aux)
+[2] (interessentanalyse.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1895 strings out of 493634
- 22796 string characters out of 3131975
+ 1897 strings out of 493634
+ 22812 string characters out of 3131975
  83111 words of memory out of 3000000
- 5296 multiletter control sequences out of 15000+200000
+ 5298 multiletter control sequences out of 15000+200000
  4553 words of font info for 17 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,4n,24p,356b,127s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,4n,24p,358b,127s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/MelissaKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Users/MelissaKarina/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/MelissaKarina/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on interessentanalyse.pdf (1 page, 48679 bytes).
+Output written on interessentanalyse.pdf (2 pages, 49744 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
