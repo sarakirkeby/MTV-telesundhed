@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.13)  20 MAY 2016 07:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.13)  24 MAY 2016 10:26
 entering extended mode
 **./Logbog.tex
 (Logbog.tex
@@ -889,17 +889,12 @@ File: biblatex_legacy.def
 \c@biburllcpenalty=\count322
 \c@smartand=\count323
 )
-Package biblatex Info: Trying to load bibliography style 'nejm'...
-Package biblatex Info: ... file 'nejm.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex-n
-ejm\nejm.bbx"
-File: nejm.bbx 2011/09/09  v0.4: nejm.bbx
-
-
-Package biblatex Warning: backend=biber required by style.
-(biblatex)                Some features may not work properly.
-
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\b
+bx\numeric.bbx"
+File: numeric.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -908,26 +903,13 @@ bx\standard.bbx"
 File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count324
 \c@bbx:relatedtotal=\count325
-)
-
-Package biblatex Warning: 'firstinits' option is deprecated, use 'giveninits' i
-nstead.
-
-)
-Package biblatex Info: Trying to load citation style 'nejm'...
-Package biblatex Info: ... file 'nejm.cbx' found.
-
-("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex-n
-ejm\nejm.cbx"
-File: nejm.bbx 2011/09/09  v0.4: nejm.cbx
-Package biblatex Info: Trying to load citation style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.cbx' found.
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\c
-bx\numeric-comp.cbx"
-File: numeric-comp.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
-\c@cbx@tempcnta=\count326
-\c@cbx@tempcntb=\count327
+bx\numeric.cbx"
+File: numeric.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -939,8 +921,6 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\smartcites'.
-)
-Package biblatex Info: Redefining '\cite'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -973,14 +953,14 @@ Package graphics Info: Driver file: pdftex.def on input line 94.
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\mult
 icol.sty"
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
-\c@tracingmulticols=\count328
+\c@tracingmulticols=\count326
 \mult@box=\box29
 \multicol@leftmargin=\dimen151
-\c@unbalance=\count329
-\c@collectmore=\count330
-\doublecol@number=\count331
-\multicoltolerance=\count332
-\multicolpretolerance=\count333
+\c@unbalance=\count327
+\c@collectmore=\count328
+\doublecol@number=\count329
+\multicoltolerance=\count330
+\multicolpretolerance=\count331
 \full@width=\dimen152
 \page@free=\dimen153
 \premulticols=\dimen154
@@ -1011,19 +991,19 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box50
 \@tempa=\box51
 \@tempa=\box52
-\c@columnbadness=\count334
-\c@finalcolumnbadness=\count335
+\c@columnbadness=\count332
+\c@finalcolumnbadness=\count333
 \last@try=\dimen157
 \multicolovershoot=\dimen158
 \multicolundershoot=\dimen159
 \mult@nat@firstbox=\box53
 \colbreak@box=\box54
-\mc@col@check@num=\count336
+\mc@col@check@num=\count334
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rotating\r
 otating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-\c@r@tfl@t=\count337
+\c@r@tfl@t=\count335
 \rotFPtop=\skip271
 \rotFPbot=\skip272
 \rot@float@box=\box55
@@ -1038,7 +1018,7 @@ Already applied: [0000/00/00] float order in 2-column on input line 151.
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\floa
 t.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count338
+\c@float@type=\count336
 \float@exts=\toks27
 \float@box=\box56
 \@float@everytoks=\toks28
@@ -1070,13 +1050,13 @@ Package: amsbsy 1999/11/29 v1.2d
 sopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count339
+\inf@bad=\count337
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count340
-\leftroot@=\count341
+\uproot@=\count338
+\leftroot@=\count339
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count342
-\DOTSCASE@=\count343
+\classnum@=\count340
+\DOTSCASE@=\count341
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -1085,15 +1065,15 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen162
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count344
-\c@MaxMatrixCols=\count345
+\macc@depth=\count342
+\c@MaxMatrixCols=\count343
 \dotsspace@=\muskip11
-\c@parentequation=\count346
-\dspbrk@lvl=\count347
+\c@parentequation=\count344
+\dspbrk@lvl=\count345
 \tag@help=\toks30
-\row@=\count348
-\column@=\count349
-\maxfields@=\count350
+\row@=\count346
+\column@=\count347
+\maxfields@=\count348
 \andhelp@=\toks31
 \eqnshift@=\dimen163
 \alignsep@=\dimen164
@@ -1134,15 +1114,15 @@ Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc
 .sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count351
-\calc@Bcount=\count352
+\calc@Acount=\count349
+\calc@Bcount=\count350
 \calc@Adimen=\dimen169
 \calc@Bdimen=\dimen170
 \calc@Askip=\skip276
 \calc@Bskip=\skip277
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count353
+\calc@Ccount=\count351
 \calc@Cskip=\skip278
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\
@@ -1153,7 +1133,7 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count354
+\g_MT_multlinerow_int=\count352
 \l_MT_multwidth_dim=\dimen171
 \origjot=\skip279
 \l_MT_shortvdotswithinadjustabove_dim=\dimen172
@@ -1345,24 +1325,24 @@ L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
 L3 Module: l3str 2016/03/24 v6441 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
 L3 Module: l3int 2016/03/24 v6441 L3 Integers
-\c_max_int=\count355
-\l_tmpa_int=\count356
-\l_tmpb_int=\count357
-\g_tmpa_int=\count358
-\g_tmpb_int=\count359
+\c_max_int=\count353
+\l_tmpa_int=\count354
+\l_tmpb_int=\count355
+\g_tmpa_int=\count356
+\g_tmpb_int=\count357
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
-\g__prg_map_int=\count360
+\g__prg_map_int=\count358
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
 L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
 L3 Module: l3msg 2016/03/26 v6464 L3 Messages
 L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
-\l_iow_line_count_int=\count361
-\l__iow_target_count_int=\count362
-\l__iow_current_line_int=\count363
-\l__iow_current_word_int=\count364
-\l__iow_current_indentation_int=\count365
+\l_iow_line_count_int=\count359
+\l__iow_target_count_int=\count360
+\l__iow_current_line_int=\count361
+\l__iow_current_word_int=\count362
+\l__iow_current_indentation_int=\count363
 L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \c_zero_dim=\dimen178
 \c_max_dim=\dimen179
@@ -1383,18 +1363,18 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
 L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
-\g__keyval_level_int=\count366
-\l_keys_choice_int=\count367
+\g__keyval_level_int=\count364
+\l_keys_choice_int=\count365
 L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
-\c__fp_leading_shift_int=\count368
-\c__fp_middle_shift_int=\count369
-\c__fp_trailing_shift_int=\count370
-\c__fp_big_leading_shift_int=\count371
-\c__fp_big_middle_shift_int=\count372
-\c__fp_big_trailing_shift_int=\count373
-\c__fp_Bigg_leading_shift_int=\count374
-\c__fp_Bigg_middle_shift_int=\count375
-\c__fp_Bigg_trailing_shift_int=\count376
+\c__fp_leading_shift_int=\count366
+\c__fp_middle_shift_int=\count367
+\c__fp_trailing_shift_int=\count368
+\c__fp_big_leading_shift_int=\count369
+\c__fp_big_middle_shift_int=\count370
+\c__fp_big_trailing_shift_int=\count371
+\c__fp_Bigg_leading_shift_int=\count372
+\c__fp_Bigg_middle_shift_int=\count373
+\c__fp_Bigg_trailing_shift_int=\count374
 L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \c_empty_box=\box60
 \l_tmpa_box=\box61
@@ -1445,7 +1425,7 @@ L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l
 3pdfmode.def"
 File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count377
+\l__driver_color_stack_int=\count375
 ))
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages
 \l3keys2e\l3keys2e.sty"
@@ -1458,16 +1438,16 @@ Package: l3regex 2016/04/20 v6476 L3 Experimental regular expressions
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3experime
 ntal\l3str\l3tl-build.sty"
 Package: l3tl-build 2016/04/20 v6476 L3 Experimental token list construction
-\l__tl_build_start_index_int=\count378
-\l__tl_build_index_int=\count379
+\l__tl_build_start_index_int=\count376
+\l__tl_build_index_int=\count377
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3experime
 ntal\l3str\l3tl-analysis.sty"
 Package: l3tl-analysis 2016/03/24 v6443 L3 Experimental token lists analysis
-\l__tl_analysis_normal_int=\count380
-\l__tl_analysis_index_int=\count381
-\l__tl_analysis_nesting_int=\count382
-\l__tl_analysis_type_int=\count383
+\l__tl_analysis_normal_int=\count378
+\l__tl_analysis_index_int=\count379
+\l__tl_analysis_nesting_int=\count380
+\l__tl_analysis_type_int=\count381
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3experime
 ntal\l3str\l3flag.sty"
@@ -1477,62 +1457,62 @@ Package: l3flag 2016/04/20 v6476 L3 Experimental flags
 ntal\l3str\l3str-convert.sty"
 Package: l3str-convert 2016/03/24 v6443 L3 Experimental string encoding convers
 ions
-\l__str_internal_int=\count384
-\c__str_replacement_char_int=\count385
+\l__str_internal_int=\count382
+\c__str_replacement_char_int=\count383
 )
-\l__regex_internal_a_int=\count386
-\l__regex_internal_b_int=\count387
-\l__regex_internal_c_int=\count388
-\l__regex_balance_int=\count389
-\l__regex_group_level_int=\count390
-\l__regex_mode_int=\count391
-\l__regex_catcodes_int=\count392
-\l__regex_default_catcodes_int=\count393
-\c__regex_catcode_D_int=\count394
-\c__regex_catcode_S_int=\count395
-\c__regex_catcode_L_int=\count396
-\c__regex_catcode_O_int=\count397
-\c__regex_catcode_A_int=\count398
-\c__regex_all_catcodes_int=\count399
-\l__regex_show_lines_int=\count400
-\l__regex_min_state_int=\count401
-\l__regex_max_state_int=\count402
-\l__regex_left_state_int=\count403
-\l__regex_right_state_int=\count404
-\l__regex_capturing_group_int=\count405
-\l__regex_min_pos_int=\count406
-\l__regex_max_pos_int=\count407
-\l__regex_current_pos_int=\count408
-\l__regex_start_pos_int=\count409
-\l__regex_success_pos_int=\count410
-\l__regex_current_char_int=\count411
-\l__regex_current_catcode_int=\count412
-\l__regex_last_char_int=\count413
-\l__regex_case_changed_char_int=\count414
-\l__regex_current_state_int=\count415
-\l__regex_step_int=\count416
-\l__regex_min_active_int=\count417
-\l__regex_max_active_int=\count418
-\l__regex_replacement_csnames_int=\count419
-\l__regex_match_count_int=\count420
-\l__regex_submatch_int=\count421
-\l__regex_zeroth_submatch_int=\count422
+\l__regex_internal_a_int=\count384
+\l__regex_internal_b_int=\count385
+\l__regex_internal_c_int=\count386
+\l__regex_balance_int=\count387
+\l__regex_group_level_int=\count388
+\l__regex_mode_int=\count389
+\l__regex_catcodes_int=\count390
+\l__regex_default_catcodes_int=\count391
+\c__regex_catcode_D_int=\count392
+\c__regex_catcode_S_int=\count393
+\c__regex_catcode_L_int=\count394
+\c__regex_catcode_O_int=\count395
+\c__regex_catcode_A_int=\count396
+\c__regex_all_catcodes_int=\count397
+\l__regex_show_lines_int=\count398
+\l__regex_min_state_int=\count399
+\l__regex_max_state_int=\count400
+\l__regex_left_state_int=\count401
+\l__regex_right_state_int=\count402
+\l__regex_capturing_group_int=\count403
+\l__regex_min_pos_int=\count404
+\l__regex_max_pos_int=\count405
+\l__regex_current_pos_int=\count406
+\l__regex_start_pos_int=\count407
+\l__regex_success_pos_int=\count408
+\l__regex_current_char_int=\count409
+\l__regex_current_catcode_int=\count410
+\l__regex_last_char_int=\count411
+\l__regex_case_changed_char_int=\count412
+\l__regex_current_state_int=\count413
+\l__regex_step_int=\count414
+\l__regex_min_active_int=\count415
+\l__regex_max_active_int=\count416
+\l__regex_replacement_csnames_int=\count417
+\l__regex_match_count_int=\count418
+\l__regex_submatch_int=\count419
+\l__regex_zeroth_submatch_int=\count420
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\
 chemgreek.sty"
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages
 \xparse\xparse.sty"
 Package: xparse 2016/04/20 v6476 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count423
-\l__xparse_m_args_int=\count424
-\l__xparse_mandatory_args_int=\count425
-\l__xparse_processor_int=\count426
-\l__xparse_v_nesting_int=\count427
+\l__xparse_current_arg_int=\count421
+\l__xparse_m_args_int=\count422
+\l__xparse_mandatory_args_int=\count423
+\l__xparse_processor_int=\count424
+\l__xparse_v_nesting_int=\count425
 )
 Package: chemgreek 2016/01/07 v1.0d interfaceforuprightgreeklettersforuseinchem
 istry (CN)
-\l__chemgreek_tmpa_int=\count428
-\g__chemgreek_tmpa_int=\count429
+\l__chemgreek_tmpa_int=\count426
+\g__chemgreek_tmpa_int=\count427
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1584,7 +1564,7 @@ istry (CN)
 . Defining command \selectchemgreekmapping with sig. 'm' on line 491.
 .................................................
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count430
+\l__mhchem_ce_distanceFromLastComma_int=\count428
 \__mhchem_arrow_extPgfLength_skip=\skip286
 \mhchem@minispace@tmp=\skip287
 \mhchem@minibackspace@tmp=\skip288
@@ -1595,7 +1575,7 @@ istry (CN)
 \mhchem@smallbondwidth=\skip293
 \mhchem@bondtmp@minussidebearingleft=\skip294
 \mhchem@bondtmp@minussidebearingright=\skip295
-\l__mhchem_option_version_int=\count431
+\l__mhchem_option_version_int=\count429
 \mhchem@option@minusmathsidebearingleft=\dimen270
 \mhchem@option@minusmathsidebearingright=\dimen271
 \mhchem@option@minustextsidebearingleft=\dimen272
@@ -1606,27 +1586,27 @@ unitx.sty"
 Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
 \l__siunitx_tmp_box=\box75
 \l__siunitx_tmp_dim=\dimen274
-\l__siunitx_tmp_int=\count432
-\l__siunitx_number_mantissa_length_int=\count433
-\l__siunitx_number_uncert_length_int=\count434
-\l__siunitx_round_int=\count435
-\l__siunitx_process_decimal_int=\count436
-\l__siunitx_process_uncertainty_int=\count437
-\l__siunitx_process_fixed_int=\count438
-\l__siunitx_process_integer_min_int=\count439
-\l__siunitx_process_precision_int=\count440
-\l__siunitx_group_min_int=\count441
+\l__siunitx_tmp_int=\count430
+\l__siunitx_number_mantissa_length_int=\count431
+\l__siunitx_number_uncert_length_int=\count432
+\l__siunitx_round_int=\count433
+\l__siunitx_process_decimal_int=\count434
+\l__siunitx_process_uncertainty_int=\count435
+\l__siunitx_process_fixed_int=\count436
+\l__siunitx_process_integer_min_int=\count437
+\l__siunitx_process_precision_int=\count438
+\l__siunitx_group_min_int=\count439
 \l__siunitx_angle_marker_box=\box76
 \l__siunitx_angle_unit_box=\box77
 \l__siunitx_angle_marker_dim=\dimen275
 \l__siunitx_angle_unit_dim=\dimen276
-\l__siunitx_unit_int=\count442
-\l__siunitx_unit_denominator_int=\count443
-\l__siunitx_unit_numerator_int=\count444
-\l__siunitx_unit_prefix_int=\count445
-\l__siunitx_unit_prefix_base_int=\count446
-\l__siunitx_unit_prefix_gram_int=\count447
-\l__siunitx_number_product_int=\count448
+\l__siunitx_unit_int=\count440
+\l__siunitx_unit_denominator_int=\count441
+\l__siunitx_unit_numerator_int=\count442
+\l__siunitx_unit_prefix_int=\count443
+\l__siunitx_unit_prefix_base_int=\count444
+\l__siunitx_unit_prefix_gram_int=\count445
+\l__siunitx_number_product_int=\count446
 \c__siunitx_one_fill_skip=\skip296
 \l__siunitx_table_unit_align_skip=\skip297
 \l__siunitx_table_exponent_dim=\dimen277
@@ -1772,7 +1752,7 @@ e\translator\translator-language-mappings.tex")))
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\vari
 oref.sty"
 Package: varioref 2015/09/22 v1.5b package for extended references (FMi)
-\c@vrcnt=\count449
+\c@vrcnt=\count447
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.s
 ty"
@@ -1780,24 +1760,24 @@ Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
 istings.sty"
-\lst@mode=\count450
+\lst@mode=\count448
 \lst@gtempboxa=\box82
 \lst@token=\toks34
-\lst@length=\count451
+\lst@length=\count449
 \lst@currlwidth=\dimen286
-\lst@column=\count452
-\lst@pos=\count453
+\lst@column=\count450
+\lst@pos=\count451
 \lst@lostspace=\dimen287
 \lst@width=\dimen288
-\lst@newlines=\count454
-\lst@lineno=\count455
+\lst@newlines=\count452
+\lst@lineno=\count453
 \lst@maxwidth=\dimen289
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
 stmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count456
-\lst@skipnumbers=\count457
+\c@lstnumber=\count454
+\lst@skipnumbers=\count455
 \lst@framebox=\box83
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
@@ -1809,7 +1789,7 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lip
 sum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count458
+\c@lips@count=\count456
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\e
 numitem.sty"
@@ -1818,7 +1798,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@outerparindent=\dimen290
 \enit@toks=\toks35
 \enit@inbox=\box84
-\enitdp@description=\count459
+\enitdp@description=\count457
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\p
 dfpages.sty"
@@ -1842,7 +1822,7 @@ File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 \AM@pagebox=\box85
 \AM@global@opts=\toks36
 \AM@toc@title=\toks37
-\c@AM@survey=\count460
+\c@AM@survey=\count458
 \AM@templatesizebox=\box86
 )
 
@@ -1893,7 +1873,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen298
 \caption@hangindent=\dimen299
 )
-\c@ContinuedFloat=\count461
+\c@ContinuedFloat=\count459
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
@@ -1955,8 +1935,8 @@ voptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen300
-\Hy@linkcounter=\count462
-\Hy@pagecounter=\count463
+\Hy@linkcounter=\count460
+\Hy@pagecounter=\count461
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\p
 d1enc.def"
@@ -1964,7 +1944,7 @@ File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count464
+\Hy@SavedSpaceFactor=\count462
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\h
 yperref.cfg"
@@ -1977,10 +1957,10 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count465
+\c@Hy@tempcnt=\count463
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen301
-\Fld@menulength=\count466
+\Fld@menulength=\count464
 \Field@Width=\dimen302
 \Fld@charsize=\dimen303
 Package hyperref Info: Hyper figures OFF on input line 6295.
@@ -1992,16 +1972,16 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count467
-\c@Item=\count468
-\c@Hfootnote=\count469
+\Hy@abspage=\count465
+\c@Item=\count466
+\c@Hfootnote=\count467
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem
 hfixc.sty"
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count470
-\c@Hpagenote=\count471
+\c@memhycontfloat=\count468
+\c@Hpagenote=\count469
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
@@ -2010,8 +1990,8 @@ Package hyperref Message: Driver (autodetected): hpdftex.
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\h
 pdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count472
-\c@bookmark@seq@number=\count473
+\Fld@listcount=\count470
+\c@bookmark@seq@number=\count471
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\r
 erunfilecheck.sty"
@@ -2021,7 +2001,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip301
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 189.
+Package hyperref Info: Option `colorlinks' set `false' on input line 230.
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cleveref\c
 leveref.sty"
@@ -2066,16 +2046,16 @@ Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 rwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box87
-\sift@deathcycles=\count474
+\sift@deathcycles=\count472
 \@vwid@loff=\dimen304
 \@vwid@roff=\dimen305
 )
-\c@taburow=\count475
-\tabu@nbcols=\count476
-\tabu@cnt=\count477
-\tabu@Xcol=\count478
-\tabu@alloc=\count479
-\tabu@nested=\count480
+\c@taburow=\count473
+\tabu@nbcols=\count474
+\tabu@cnt=\count475
+\tabu@Xcol=\count476
+\tabu@alloc=\count477
+\tabu@nested=\count478
 \tabu@target=\dimen306
 \tabu@spreadtarget=\dimen307
 \tabu@naturalX=\dimen308
@@ -2100,16 +2080,16 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTright=\skip307
 \LTpre=\skip308
 \LTpost=\skip309
-\LTchunksize=\count481
+\LTchunksize=\count479
 \LTcapwidth=\dimen315
 \LT@head=\box92
 \LT@firsthead=\box93
 \LT@foot=\box94
 \LT@lastfoot=\box95
-\LT@cols=\count482
-\LT@rows=\count483
-\c@LT@tables=\count484
-\c@LT@chunks=\count485
+\LT@cols=\count480
+\LT@rows=\count481
+\c@LT@tables=\count482
+\c@LT@chunks=\count483
 \LT@p@ftn=\toks40
 )
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tabto\tabt
@@ -2132,7 +2112,7 @@ xkvutils.tex"
 \XKV@toks=\toks41
 \XKV@tempa@toks=\toks42
 )
-\XKV@depth=\count486
+\XKV@depth=\count484
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 
@@ -2168,8 +2148,8 @@ File: danish.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count487
-\@quotereset=\count488
+\@quotelevel=\count485
+\@quotereset=\count486
 (Logbog.aux (Lfiler/2016.02.09.aux) (Lfiler/2016.02.18.aux)
 (Lfiler/2016.03.04.aux) (Lfiler/2016.03.08.aux) (Lfiler/2016.03.10.aux)
 (Lfiler/2016.03.15.aux) (Lfiler/2016.03.31.aux) (Lfiler/2016.04.07.aux)
@@ -2212,16 +2192,16 @@ LaTeX Info: Redefining \selectfont on input line 6.
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\sup
 p-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count489
+\scratchcounter=\count487
 \scratchdimen=\dimen317
 \scratchbox=\box96
-\nofMPsegments=\count490
-\nofMParguments=\count491
+\nofMPsegments=\count488
+\nofMParguments=\count489
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count492
+\MPscratchCnt=\count490
 \MPscratchDim=\dimen318
-\MPnumerator=\count493
-\makeMPintoPDFobject=\count494
+\MPnumerator=\count491
+\makeMPintoPDFobject=\count492
 \everyMPtoPDFconversion=\toks44
 )
 Package lastpage Info: Please have a look at the pageslts package at
@@ -2257,7 +2237,7 @@ Dictionary: translator-basic-dictionary, Language: English
 unitx-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
-\c@lstlisting=\count495
+\c@lstlisting=\count493
 \AtBeginShipoutBox=\box97
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\p
@@ -2289,7 +2269,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 \gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count496
+\c@section@level=\count494
 LaTeX Info: Redefining \Ref on input line 513.
 )
 Redoing nameref's sectioning
@@ -2303,7 +2283,7 @@ LaTeX Info: Redefining \nameref on input line 6.
 \openout5 = `Logbog.out'.
 
 LaTeX Info: Redefining \Ref on input line 6.
-\c__siunitx_mathsf_int=\count497
+\c__siunitx_mathsf_int=\count495
 LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
@@ -2320,7 +2300,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 6.
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\u
 stmry.fd")
-\c__siunitx_mathtt_int=\count498
+\c__siunitx_mathtt_int=\count496
 \openout2 = `Lfiler/2016.02.09.aux'.
 
  (Lfiler/2016.02.09.tex
@@ -3515,14 +3495,138 @@ Package babel Info: Redefining danish shorthand "~
 [38
 
 
-] 
-AED: lastpage setting LastPage
+]
+\openout2 = `Lfiler/2016.05.20.aux'.
+
+
+No file Lfiler/2016.05.20.tex.
+\openout2 = `Lfiler/2016.05.21.aux'.
+
+(Lfiler/2016.05.21.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 43.
+ [39
+
+
+
+
+]
+\openout2 = `Lfiler/2016.05.22.aux'.
+
+ (Lfiler/2016.05.22.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 8--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--44
+
+ []
+
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 44.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 44.
+[40
+
+
+]
+\openout2 = `Lfiler/2016.23.05.b.aux'.
+
+ (Lfiler/2016.23.05.b.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 45.
+ [41
+
+
+]
+\openout2 = `Lfiler/2016.05.24.aux'.
+
+ (Lfiler/2016.05.24.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 17--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--46
+
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+[42
+
+
+] 
+AED: lastpage setting LastPage
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 48.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
 (Logbog.aux (Lfiler/2016.02.09.aux) (Lfiler/2016.02.18.aux)
 (Lfiler/2016.03.04.aux) (Lfiler/2016.03.08.aux) (Lfiler/2016.03.10.aux)
 (Lfiler/2016.03.15.aux) (Lfiler/2016.03.31.aux) (Lfiler/2016.04.07.aux)
@@ -3534,38 +3638,49 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
 (Lfiler/2016.05.04b.aux) (Lfiler/2016.05.06.aux) (Lfiler/2016.05.10.aux)
 (Lfiler/2016.05.10a.aux) (Lfiler/2016.05.11.aux) (Lfiler/2016.05.13.aux)
 (Lfiler/2016.05.17.aux) (Lfiler/2016.05.17a.aux) (Lfiler/2016.05.17b.aux)
-(Lfiler/2016.05.18.aux) (Lfiler/2016.05.18a.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
-Package rerunfilecheck Info: File `Logbog.out' has not changed.
-(rerunfilecheck)             Checksum: CCE3CC1F93E861E01EF20958C2B28E9D;2237.
+(Lfiler/2016.05.18.aux) (Lfiler/2016.05.18a.aux) (Lfiler/2016.05.20.aux)
+(Lfiler/2016.05.21.aux) (Lfiler/2016.05.22.aux) (Lfiler/2016.23.05.b.aux)
+(Lfiler/2016.05.24.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+
+
+Package rerunfilecheck Warning: File `Logbog.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Logbog.out':
+(rerunfilecheck)             Before: CCE3CC1F93E861E01EF20958C2B28E9D;2237
+(rerunfilecheck)             After:  6F76B956382AA566D8FA4422F67CDB5F;2497.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'Logbog.run.xml'.
 \openout1 = `Logbog.run.xml'.
 
  )
-(\end occurred when \iftrue on line 6 was incomplete)
-(\end occurred when \iftrue on line 31 was incomplete) 
+(\end occurred when \iftrue on line 6 was incomplete) 
 Here is how much of TeX's memory you used:
- 34494 strings out of 493634
- 626746 string characters out of 3131975
- 1154025 words of memory out of 3000000
- 37146 multiletter control sequences out of 15000+200000
+ 34499 strings out of 493634
+ 626578 string characters out of 3131975
+ 1152187 words of memory out of 3000000
+ 37124 multiletter control sequences out of 15000+200000
  17001 words of font info for 52 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
  45i,12n,44p,10486b,1672s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\MelissaKarina\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Us
-ers\MelissaKarina\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\t
-crm1095.pk> <C:\Users\MelissaKarina\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
-nappen\ec\dpi600\ecrm1095.pk> <C:\Users\MelissaKarina\AppData\Local\MiKTeX\2.9\
-fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\MelissaKarina\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>{C:/Users/Meli
-ssaKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:
-/Users/MelissaKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/bookman/
-ubkd8a.pfb>
-Output written on Logbog.pdf (38 pages, 127658 bytes).
+ <C:\Users\MelissaKarina\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Use
+rs\MelissaKarina\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tc
+rm1095.pk> <C:\Users\MelissaKarina\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecrm1095.pk> <C:\Users\MelissaKarina\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\MelissaKarina\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>{C:/Users/Melis
+saKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/
+Users/MelissaKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/bookman/u
+bkd8a.pfb>
+Output written on Logbog.pdf (42 pages, 134565 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
+ 533 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
  281 words of extra memory for PDF output out of 10000 (max. 10000000)
 
