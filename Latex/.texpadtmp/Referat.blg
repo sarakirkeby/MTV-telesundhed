@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: /Users/Lise/Google Drev/Ingeniør Højskolen Århus/4. Semester/MTV-telesundhed/Latex/.texpadtmp/Referat.aux
+The top-level auxiliary file: /Users/jakobdegn/Desktop/4. semester/MTV/MTV-telesundhed/Latex/.texpadtmp/Referat.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: Rfiler/2016-02-24.aux
 A level-1 auxiliary file: Rfiler/02.03.2016.aux
@@ -13,6 +13,7 @@ A level-1 auxiliary file: Rfiler/2016.04.12.aux
 A level-1 auxiliary file: Rfiler/2016.04.15.aux
 A level-1 auxiliary file: Rfiler/2016-04-18.aux
 A level-1 auxiliary file: Rfiler/2016-05-12.aux
+A level-1 auxiliary file: Rfiler/2016.05.18.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -31,7 +32,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 You've used 1 entry,
             6047 wiz_defined-function locations,
-            1140 strings with 8523 characters,
+            1141 strings with 8496 characters,
 and the built_in function-call counts, 1306 in all, are:
 = -- 64
 > -- 58
