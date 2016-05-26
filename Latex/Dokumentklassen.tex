@@ -1,6 +1,6 @@
 %%%% Dokumentklassen %%%%
 
-\documentclass[a4paper,11pt,fleqn,dvipsnames,twoside,openany]{memoir} 	% Openright åbner kapitler på højresider (openany begge)
+\documentclass[a4paper,11pt,fleqn,dvipsnames,twoside,openany, danish]{memoir} 	% Openright åbner kapitler på højresider (openany begge)
 
 
 %%%% PACKAGES %%%%
@@ -14,6 +14,7 @@
 \usepackage[table]{xcolor}
 \usepackage{lastpage}						% Total antal sider opdateres automatisk ved \pageref{LastPage}
 \usepackage[style=numeric,urldate=long, maxbibnames=6,sortcites=true,sorting=none, backend=bibtex]{biblatex}
+
 \DeclareNameFormat*{default}{\ifblank{#5}{}{#5 }\ifblank{#1}{}{#1}\ifblank{#4}{}{ #4}\ifblank{#7}{}{ (#7)}\ifthenelse{\value{listcount}<\value{liststop}}{, }{}}
 \DeclareFieldFormat*{citetitle}{\textit{#1}}
 \DeclareFieldFormat*{title}{#1}
