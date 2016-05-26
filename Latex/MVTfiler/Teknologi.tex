@@ -12,8 +12,8 @@ I dette afsnit kigges der nærmere på Appinux, som leverer videokonferencesyste
 \begin{itemize}
 	\item Hvordan fungerer Appinux-løsningen med videoopkald i Favrskov Kommune? \\Spørgsmålet søges besvaret med udgangspunkt i følgende punkter:
 	\begin{itemize}
-	\item Sikkerhedskrav
-	\item Dækning 
+	\item Dækning
+	\item Sikkerhedskrav 
 	\item Kompatibilitet 
 \end{itemize}
 \end{itemize}
@@ -55,19 +55,19 @@ Overordnet set skelner denne mini-MTV mellem mobilt bredbånd og en kablet forbi
 Internethastigheden eller båndbredden er ofte den parameter, der kigges på, når kvaliteten på en internetopkobling vurderes. Den mest udbredte opkoblingstype i Danmark er ADSL-bredbånd med over en million abonnementer \cite{statadsl}. Hastighed på disse ligger typisk fra 10/1Mbit/s til 100/20Mbit/s \cite{tdchastigheder} \cite{telenorhastigheder}. Det har ikke været muligt at finde et dækningskort, der viser fiber- og bredbåndsdækningen i Favrskov Kommune, men denne mini-MTV tager udgangspunkt i, at hvis en borger har købt bredbånd med en given hastighed, bliver produktet også leveret.\\
 Udover den kablede internetopkobling, er det også muligt at tilgå internettet via det mobile netværk. Eftersom det hele kører trådsløs, er dækningen utrolig vigtig for, at et videokonferencesystem kører optimalt. TDC's dækningskort viser, at Favrskov Kommune har min. 5Mbit/s på enten 3G- eller 4G-netværket udendørs \cite{tdcdaekning}.
 %Det kan dog være svært at sige, hvorledes hastigheden stemmer overens indendørs, og det er dermed vigtigt at undersøge dette i hver given sitution.
-Der har været indberetninger fra borgere, der antyder, at der i kommunen i efteråret 2015 var problemer med mobildækningen indendørs\cite{tv2oj_daekning}, hvilket har udmøntet sig i et dækningskort som vist på figur \ref{fig:dkort}. Dette indikerer, at kommunen er opmærksom på problemet.\\
+Der har været indberetninger fra borgere, der antyder, at der i kommunen i efteråret 2015 var problemer med mobildækningen indendørs \cite{tv2oj_daekning}, hvilket har udmøntet sig i et dækningskort som vist på figur \ref{fig:dkort}. Dette indikerer, at kommunen er opmærksom på problemet.\\
 Der arbejdes løbende på en forbedret dækning og bredbåndshastighed med en målsætning på 100Mbit/s download og 30Mbit/s upload til alle danskere i 2020\cite{digitalvel}.
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.7\textwidth]{Figurer/daekningskort.png}
-\caption{\label{fig:dkort}Dækningskort for mobildækning i Favrskov Kommune fra sommer 2015. De røde pletter angiver områder med dårlig dækning [Bilag 14, 14.1]}
+\includegraphics[width=1\textwidth]{Figurer/Snip20160526_3}
+\caption{\label{fig:dkort}Dækningskort for mobildækning i Favrskov Kommune fra sommer 2015. De lyse områder angiver områder med dårligst dækning, mens de røde områder  [Bilag 14, 14.1]}
 \end{figure}
 
 \subsection{Sikkerhed}
 Når patientfølsomme data sendes rundt i cyberspace, er der visse lovkrav, der skal sikre, at der i tilstrækkelig grad værnes om disse data.
 Sundhedsstyrelsen udgav i 2008 \citetitle{vogi}, som omhandler ændringer i sundhedsloven vedrørende elektroniske systemer. Denne blev i 2015 revideret, og det er primært denne, der er anvendt som informationskilde \cite{vogi}.\\
 Det bemærkes, at kilden er et høringsudkast, så ændringer må forventes at forekomme.\\
-Offentlige institutioner inden for sundhedssektoren, der kommunikerer via internettet skal anvende en krypteret forbindelse, og brugeren skal anvende en såkaldt tofaktor-autentifikation, som består af en login-funktion, der både indeholder noget de ved og noget de har. Nem-ID er et eksempel herpå \cite{vogi}. Private er ikke underlagt samme restriktioner, men det anbefales, at der anvendes tilsvarende eller samme løsning.
+Offentlige institutioner inden for sundhedssektoren, der kommunikerer via internettet skal anvende en krypteret forbindelse, og brugeren skal anvende en såkaldt tofaktor-autentifikation, som består af en login-funktion, der både indeholder noget de ved og noget de har. Nem-ID er et eksempel herpå. Private er ikke underlagt samme restriktioner, men det anbefales, at der anvendes tilsvarende eller samme løsning \cite{vogi}.
 
 Den dataansvarlige skal overholde sikkerhedsbekendtgørelsens krav, hvilket blandt andet indebærer, at det data, der lagres på enheden, skal være krypteret og beskyttet med kode og kommunikation mellem enhed og database skal være krypteret \cite{shbekendt}. Yderligere skal det sikres, at andre væsentlige forhold fra sundhedsloven, autorisationsloven samt persondataloven overholdes. 
 
@@ -99,8 +99,10 @@ Udfordringerne med forsinkelsestid understøttes yderligere af interviewundersø
 
 
 \subsection{Opfyldning af sikkerhedskrav}
-Anbefalingen om en tofaktor-autentifikation, der er pålagt offentlige institutioner at følge, anvendes ikke af Appinux. For at logge ind anvendes blot brugernavn og kodeord, og så er brugeren logget ind i en given periode. For at højne sikkerheden kunne borgeren logge ind med Nem-ID. Dette ville dog tidsmæssigt besværliggøre processen og muligvis være til gene. Teknologien, der muliggør Nem-ID på Android-systemer, findes og anvendes af blandt andre Nets \cite{netsapp}.\\
-Samtaletidspunkt, varighed og opkalds-ID logges, men selve samtalen gemmes ikke. Det er derved ikke aktuelt at bedømme, hvorledes denne krypteres på enheden. Selve videokonferencen foregår via en sikker protokol i form af HTTPS [Bilag 4, 4.1].\\
+Anbefalingen om en tofaktor-autentifikation, der er pålagt offentlige institutioner at følge, anvendes ikke af Appinux. For at logge ind anvendes blot brugernavn og kodeord, og så er brugeren logget ind i en given periode. Det kan derfor tyde på, at Appinux og Favrskov Kommune ikke opfylder sikkerhedskravene vedrørende login til Appinux' løsning via det åbne internet. Dog skal det nævnes, at oplysninger herom muligvis ikke er fyldestgørende. For at højne sikkerheden anbefales det dog, at brugeren logger ind med Nem-ID. Dette ville dog tidsmæssigt besværliggøre processen og muligvis være til gene. Teknologien, der muliggør Nem-ID på Android-systemer, findes og anvendes af blandt andre Nets \cite{netsapp}.
+
+Samtaletidspunkt, varighed og opkalds-ID logges, men selve samtalen gemmes ikke. Det er derved ikke aktuelt at bedømme, hvorledes denne krypteres på enheden. Selve videoopkaldet foregår via en sikker protokol i form af HTTPS [Bilag 4, 4.1].
+
 Som udgangspunkt opfylder Appinux altså minimumskravene, men der gøres opmærksom på, at det er Favrskov Kommunes ansvar, at sikkerhedskrav samt lovgivning bliver overholdt. Desuden er det vigtigt ved eventuelle ændringer i lovgivningen, at kommunen sørger for, at Appinux opdateres.
 
 \subsection{Implementeringsprocessen}
@@ -110,8 +112,10 @@ Appinux lægger vægt på, at kommunen skal være selvhjulpne og blander sig nø
 Det anbefales også, at kommunen tester, at det er muligt at hive data ud af systemet, således at den ikke binder sig til Appinux på længere sigt. I og med at Appinux understøtter \textit{FHIR}-standarden, bør det være muligt at udveklse data mellem andre systemer, der understøtter standarden. Det vurderes, at Appinux er en åben platform og at det er simpelt at udvide med nye komponenter, hvilket gør systemet meget alsidigt. Appinux bygger på open source-komponenter og er et selverklæret open source-system. Det har dog pr. efterspørgsmål ikke været muligt at få adgang til kildekoden, så dette stilles der spørgsmålstegn ved.\\Open source giver mulighed for, at andre levenrandørere nemt kan lave et tilsvarende system og bygge oven på den eksisterende løsning. Er der mulighed for at anvende et open source-system, vil det være anbefalelsesværdigt.
 
 \section{Delkonklusion}
-I dette teknologiafsnit er det blevet undersøgt, hvorvidt Appinux’ produkt til videoopkald harmonerer med sikkerhedskrav og den digitale infrastruktur i form af mobildækning og bredbåndshastigheder i Favrskov Kommune.
-Det konkluderes, at Appinux’ produkt til virtuel hjemmepleje kan erstatte eller supplere fysiske besøg på et acceptabelt billedkvalitet, såfremt dækning og båndbredde er tilstrækkelig.
-\\Der er fra borgernes side indberettet dækningsproblemer, og Favrskov Kommune bør i den forbindelse undersøge dækningsforholdende inden løsningen implementeres hos den pågældende borger, da der ellers i følge studiet \citetitle{webrtcjournal} og den strukturerede interviewundersøgelse kan opstå forsinkelse og lav billedkvalitet.\\
-Appinux overholder minimumskravene i forhold til datakryptering, da løsningen kører på en sikker protokol i form af HTTPS. Udover dette anvendes et login, som består af et brugernavn samt kodeord. For at forbedre sikkerheden anbefaler Sundhedsstyrelsen en tofaktor-autentifikation i form af Nem-ID eller lignende. Det er Favrskov Kommunes ansvar at beskytte patienters oplysninger i henhold til sundhedsloven.\\ 
-Favrskov Kommune stod for at implementere løsningen, da Appinux ikke har et implementeringshold, som varetager denne opgave, der opstod i den forbindelse problemer på grund af mangel på minimumskrav fra Appinux' side. Det er yderligere vigtigt, at det på forhånd er undersøgt, hvorledes data kan hives ud af systemet, og hvorvidt der kan bygges videre på løsningen, så et eventuelt leverandørskifte forekommer så gnidningsfrit som muligt og uden datatab.
+I dette teknologikapitel er det blevet undersøgt, hvorvidt Appinux’ løsning til videoopkald harmonerer med sikkerhedskrav og den digitale infrastruktur i form af mobildækning og bredbåndshastigheder i Favrskov Kommune.
+Det konkluderes, at Appinux’ løsning til virtuel hjemmepleje kan erstatte eller supplere fysiske besøg på et acceptabelt billedkvalitet, såfremt dækning og båndbredde er tilstrækkelig.
+\\Der er fra borgernes side indberettet dækningsproblemer, og Favrskov Kommune bør i den forbindelse undersøge dækningsforholdende inden løsningen implementeres hos den pågældende borger, da der ellers i følge studiet \citetitle{webrtcjournal} og den strukturerede interviewundersøgelse kan opstå forsinkelse og lav billedkvalitet.
+
+Appinux overholder minimumskravene i forhold til datakryptering, da løsningen kører på en sikker protokol i form af HTTPS. Det kan på baggrund af de indsamlede informationer ikke konkluderes, hvorvidt Appinux og Favrskov Kommune opfylder sikkerhedskravene vedrørende login til Appinux' løsning, der kommunikerer via det åbne internet. 
+
+Favrskov Kommune stod for at implementere løsningen, da Appinux ikke har et implementeringshold, som varetager denne opgave, der opstod i den forbindelse problemer på grund af mangel på minimumskrav på hardware fra Appinux' side. Det er yderligere vigtigt, at det på forhånd er undersøgt, hvorledes data kan hives ud af systemet, og hvorvidt der kan bygges videre på løsningen, så et eventuelt leverandørskifte forekommer så gnidningsfrit som muligt og uden datatab.
