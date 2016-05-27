@@ -2,15 +2,15 @@
 \label{chap:teknologiafsnit}
 \section{Indledning}
 
-Videokonferencer giver i dag mulighed for, at sundhedsfagligt personale kan kommunikere med borgere på helt nye måder.
+Videoopkald giver i dag mulighed for, at sundhedsfagligt personale kan kommunikere med borgere på helt nye måder.
 \\
-Som konsekvens af den teknologiske udvikling opstår der nye problemstillinger, hvor bl.a. infrastruktur og patientsikkerhed er nøglebegreber, der sætter tekniske og lovmæssige krav til behandlingen og ikke mindst overførsel af data.
+Som konsekvens af den teknologiske udvikling opstår der nye problemstillinger, hvor blandt andet infrastruktur og patientsikkerhed er nøglebegreber, der sætter tekniske og lovmæssige krav til behandlingen og ikke mindst overførsel af data.
 \\
-I dette afsnit kigges der nærmere på Appinux, som leverer videokonferencesystemet til Favrskov Kommune, og det undersøges, hvorvidt denne løsning harmonerer med de nævnte forudsætninger og det diskuteres, hvilke andre teknologiske foranstaltninger en leverandør af sundhedsydelser som Favrskov Kommune bør være opmærksom på.
+I dette kapitel kigges der nærmere på Appinux, som leverer videokonferencesystemet til Favrskov Kommune, og det undersøges, hvorvidt denne løsning harmonerer med de nævnte forudsætninger og det diskuteres, hvilke andre teknologiske foranstaltninger en leverandør af sundhedsydelser som Favrskov Kommune bør være opmærksom på.
 
 \subsection{Fokuseret spørgsmål}
 \begin{itemize}
-	\item Hvordan fungerer Appinux-løsningen med videoopkald i Favrskov Kommune? \\Spørgsmålet søges besvaret med udgangspunkt i følgende punkter:
+	\item Hvordan fungerer Appinux' løsning med videoopkald i Favrskov Kommune? \\Spørgsmålet søges besvaret med udgangspunkt i følgende punkter:
 	\begin{itemize}
 	\item Dækning
 	\item Sikkerhedskrav 
@@ -20,16 +20,16 @@ I dette afsnit kigges der nærmere på Appinux, som leverer videokonferencesyste
 
 
 \section{Metode}
-Dette afsnit bygger på informationer fra møder og emailkorrespondencer med Appinux' salgdirektør, Michael Ellegaard. Det har været været vanskeligt at finde litteratur, der direkte undersøger Appinux' løsning, så fokus har i stedet ligget på de delelementer og standarder, som Appinux anvender og bygger på. Der er deraf foretaget litteratursøgning på dette med henblik på at klarlægge både mangler og muligheder af produktet inden for infrastruktur. Der er anvendt en kvalitativ undersøgelse i form af en struktureret interviewundersøgelse.
+Dette kapitel bygger på informationer fra møder og emailkorrespondencer med Appinux' salgdirektør, Michael Ellegaard. Det har været været vanskeligt at finde litteratur, der direkte undersøger Appinux' løsning, så fokus har i stedet ligget på de delelementer og standarder, som Appinux anvender og bygger på. Der er deraf foretaget litteratursøgning på dette med henblik på at klarlægge både mangler og muligheder af Appinux' løsning inden for infrastruktur. Der er anvendt en kvalitativ undersøgelse i form af en struktureret interviewundersøgelse. For en dybdegående beskrivelse af metoden henvises til \vref{chap:metode}
 
-Specifikke emneord: \textit{WebRTC, Bandwidth.}
+Specifikke emneord: \textit{WebRTC, Bandwidth, Performance, Communication.}
 
-For en dybdegående beskrivelse af metoden henvises til afsnittet Metode 2. 
+ 
 
 
 
 \section{Resultater}
-Der er udarbejdet en oversigt over elementer, der bør tages med i betragtning i forbindelse med implementering af Appinux løsning. Dette ses i tabel\ref{tab:tabelforud}.
+Der er udarbejdet en oversigt over elementer, der bør tages med i betragtning i forbindelse med implementering af Appinux' løsning. Dette ses i tabel\ref{tab:tabelforud}.
 \begin{table}[H]
 \caption{Oversigt over vigtige forudsætninger i forbindelse med implementeringen af Appinux' videomodul.}
 \centering
@@ -45,7 +45,7 @@ Udstyr & \begin{itemize}\item Hardwarespecifikationer \item Styresystemsspecifik
 \end{table}
 \subsection{Appinux}
 Dette afsnit bygger på mødereferat med salgdirektør fra Appinux, Michael Ellegaard [Bilag 4, 4.1], samt Appinux' website \cite{appinuxwebsite}.\\Der er taget udgangspunkt i, at de givne informationer er korrekte, da det ikke har været muligt at finde relevant information om Appinux' løsning andetsteds.\\
-Appinux er en multiplatformsløsning, der giver mulighed for at vælge og fravælge over 70 moduler efter den gågældende kundes behov. Appinux er platformsuafhængig i den forstand, at det kan køre på PC'er via Google Chrome, samt  smartphones og tablets, der er forsynet med Android v. 4.02.\\Der gives, udover Appinux' egne moduler, også adgang til, at tredjepartsfirmaer kan implementere deres egne moduler under forudsætning af, at der finder et samarbejde sted. Dette er for eksempel i form af et genoptræningsmodul.\\Videokonferencesystemet er Appinux' eget modul. Platformen fungerer ved, at Chrome åbnes på enten en PC eller via en app på en smartphone eller tablet, hvorved der er adgang til modulet, som anvender WebRTC. WebRTC er et open source-projekt, som giver mulighed for realtidskommunikation via en browser \cite{webrtchjemmeside}. Det har den funktion, at videokvaliteten bliver justeret efter tilgængelig båndbredde og CPU-kraft hos hhv. afsender og modtager. Det vurderes af Appinux, at en båndbredde på 512kbit/s er minimumskrav for at videokonferencesystemet kører flydende.
+Appinux er en multiplatformsløsning, der giver mulighed for at vælge og fravælge over 70 moduler efter den gågældende kundes behov. Appinux er platformsuafhængig i den forstand, at det kan køre på PC'er via Google Chrome, samt  smartphones og tablets, der er forsynet med Android v. 4.02.\\Der gives, udover Appinux' egne moduler, også adgang til, at tredjepartsfirmaer kan implementere deres egne moduler under forudsætning af, at der finder et samarbejde sted. Dette er for eksempel i form af et genoptræningsmodul.\\Videokonferencesystemet er Appinux' eget modul. Platformen fungerer ved, at Chrome åbnes på enten en PC eller via en app på en smartphone eller tablet, hvorved der er adgang til modulet, som anvender WebRTC. WebRTC er et open source-projekt, som giver mulighed for realtidskommunikation via en browser  \cite{webrtchjemmeside}. Det har den funktion, at videokvaliteten bliver justeret efter tilgængelig båndbredde og CPU-kraft hos hhv. afsender og modtager. Det vurderes af Appinux, at en båndbredde på 512kbit/s er minimumskrav for at videokonferencesystemet kører flydende.
 
 Appinux følger en række standarder, som er væsentlige   er nævne. \textit{Continua Health Alliance} giver mulighed for plug-and-play af diverse apparater, såsom en blodtrykmåler, hvilket øger tilslutningsmulighederne. Der gives dog udtryk for, at det primært sker gennem aftaler mellem Appinux og tredjepartsleverandører. Inden for integration understøttes \textit{HL7}, herunder også \textit{FHIR}, som er en standard der sikrer konsistent dataudvekling mellem medicinske systemer [Bilag 4, 4.1]. Derudover giver Appinux mulighed for at opsamle en række data om borgeren, som kan tilgås via grafer og eksporteres ud af systemet.
 
@@ -56,7 +56,7 @@ Internethastigheden eller båndbredden er ofte den parameter, der kigges på, n�
 Udover den kablede internetopkobling, er det også muligt at tilgå internettet via det mobile netværk. Eftersom det hele kører trådsløs, er dækningen utrolig vigtig for, at et videokonferencesystem kører optimalt. TDC's dækningskort viser, at Favrskov Kommune har min. 5Mbit/s på enten 3G- eller 4G-netværket udendørs \cite{tdcdaekning}.
 %Det kan dog være svært at sige, hvorledes hastigheden stemmer overens indendørs, og det er dermed vigtigt at undersøge dette i hver given sitution.
 Der har været indberetninger fra borgere, der antyder, at der i kommunen i efteråret 2015 var problemer med mobildækningen indendørs \cite{tv2oj_daekning}, hvilket har udmøntet sig i et dækningskort som vist på figur \ref{fig:dkort}. Dette indikerer, at kommunen er opmærksom på problemet.\\
-Der arbejdes løbende på en forbedret dækning og bredbåndshastighed med en målsætning på 100Mbit/s download og 30Mbit/s upload til alle danskere i 2020\cite{digitalvel}.
+Der arbejdes løbende på en forbedret dækning og bredbåndshastighed med en målsætning på 100Mbit/s download og 30Mbit/s upload til alle danskere i 2020 \cite{digitalvel}.
 \begin{figure}[H]
 \centering
 \includegraphics[width=1\textwidth]{Figurer/Snip20160526_3}
@@ -67,7 +67,7 @@ Der arbejdes løbende på en forbedret dækning og bredbåndshastighed med en m�
 Når patientfølsomme data sendes rundt i cyberspace, er der visse lovkrav, der skal sikre, at der i tilstrækkelig grad værnes om disse data.
 Sundhedsstyrelsen udgav i 2008 \citetitle{vogi}, som omhandler ændringer i sundhedsloven vedrørende elektroniske systemer. Denne blev i 2015 revideret, og det er primært denne, der er anvendt som informationskilde \cite{vogi}.\\
 Det bemærkes, at kilden er et høringsudkast, så ændringer må forventes at forekomme.\\
-Offentlige institutioner inden for sundhedssektoren, der kommunikerer via internettet skal anvende en krypteret forbindelse, og brugeren skal anvende en såkaldt tofaktor-autentifikation, som består af en login-funktion, der både indeholder noget de ved og noget de har. Nem-ID er et eksempel herpå. Private er ikke underlagt samme restriktioner, men det anbefales, at der anvendes tilsvarende eller samme løsning \cite{vogi}.
+Ifølge et udkast til høringsversion \citetitle{vogi} anbefales det, at offentlige institutioner inden for sundhedssektoren ved kommunikation via det åbne internet anvender en krypteret forbindelse, og at brugeren samtidig anvender en såkaldt tofaktor-autentifikation. Private er ikke underlagt samme restriktioner, men det anbefales, at der anvendes tilsvarende eller samme løsning \cite{vogi}.
 
 Den dataansvarlige skal overholde sikkerhedsbekendtgørelsens krav, hvilket blandt andet indebærer, at det data, der lagres på enheden, skal være krypteret og beskyttet med kode og kommunikation mellem enhed og database skal være krypteret \cite{shbekendt}. Yderligere skal det sikres, at andre væsentlige forhold fra sundhedsloven, autorisationsloven samt persondataloven overholdes. 
 
@@ -99,7 +99,7 @@ Udfordringerne med forsinkelsestid understøttes yderligere af interviewundersø
 
 
 \subsection{Opfyldning af sikkerhedskrav}
-Anbefalingen om en tofaktor-autentifikation, der er pålagt offentlige institutioner at følge, anvendes ikke af Appinux. For at logge ind anvendes blot brugernavn og kodeord, og så er brugeren logget ind i en given periode. Det kan derfor tyde på, at Appinux og Favrskov Kommune ikke opfylder sikkerhedskravene vedrørende login til Appinux' løsning via det åbne internet. Dog skal det nævnes, at oplysninger herom muligvis ikke er fyldestgørende. For at højne sikkerheden anbefales det dog, at brugeren logger ind med Nem-ID. Dette ville dog tidsmæssigt besværliggøre processen og muligvis være til gene. Teknologien, der muliggør Nem-ID på Android-systemer, findes og anvendes af blandt andre Nets \cite{netsapp}.
+Anbefalingen om en tofaktor-autentifikation, der er anbefalet offentlige institutioner at følge, anvendes ikke af Appinux. For at logge ind anvendes blot brugernavn og kodeord, og så er brugeren logget ind i en given periode. Det kan derfor tyde på, at Appinux og Favrskov Kommune ikke opfylder \citetitle{vogi} vedrørende login til Appinux' løsning via det åbne internet. Dog skal det nævnes, at oplysninger herom muligvis ikke er fyldestgørende. For at højne sikkerheden anbefales det dog, at brugeren logger ind med eksempelvis Nem-ID. Dette ville dog tidsmæssigt besværliggøre processen og muligvis være til gene. Teknologien, der muliggør Nem-ID på Android-systemer, findes og anvendes af blandt andre Nets \cite{netsapp}.
 
 Samtaletidspunkt, varighed og opkalds-ID logges, men selve samtalen gemmes ikke. Det er derved ikke aktuelt at bedømme, hvorledes denne krypteres på enheden. Selve videoopkaldet foregår via en sikker protokol i form af HTTPS [Bilag 4, 4.1].
 
@@ -116,6 +116,6 @@ I dette teknologikapitel er det blevet undersøgt, hvorvidt Appinux’ løsning 
 Det konkluderes, at Appinux’ løsning til virtuel hjemmepleje kan erstatte eller supplere fysiske besøg på et acceptabelt billedkvalitet, såfremt dækning og båndbredde er tilstrækkelig.
 \\Der er fra borgernes side indberettet dækningsproblemer, og Favrskov Kommune bør i den forbindelse undersøge dækningsforholdende inden løsningen implementeres hos den pågældende borger, da der ellers i følge studiet \citetitle{webrtcjournal} og den strukturerede interviewundersøgelse kan opstå forsinkelse og lav billedkvalitet.
 
-Appinux overholder minimumskravene i forhold til datakryptering, da løsningen kører på en sikker protokol i form af HTTPS. Det kan på baggrund af de indsamlede informationer ikke konkluderes, hvorvidt Appinux og Favrskov Kommune opfylder sikkerhedskravene vedrørende login til Appinux' løsning, der kommunikerer via det åbne internet. 
+Appinux overholder minimumskravene i forhold til datakryptering, da løsningen kører på en sikker protokol i form af HTTPS. Det kan på baggrund af de indsamlede informationer ikke konkluderes, hvorvidt Appinux og Favrskov Kommune opfylder de vejledende sikkerhedskrav vedrørende login til Appinux' løsning, der kommunikerer via det åbne internet. 
 
 Favrskov Kommune stod for at implementere løsningen, da Appinux ikke har et implementeringshold, som varetager denne opgave, der opstod i den forbindelse problemer på grund af mangel på minimumskrav på hardware fra Appinux' side. Det er yderligere vigtigt, at det på forhånd er undersøgt, hvorledes data kan hives ud af systemet, og hvorvidt der kan bygges videre på løsningen, så et eventuelt leverandørskifte forekommer så gnidningsfrit som muligt og uden datatab.
