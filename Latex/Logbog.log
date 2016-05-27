@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.13)  24 MAY 2016 10:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.13)  27 MAY 2016 09:47
 entering extended mode
 **./Logbog.tex
 (Logbog.tex
@@ -1024,6 +1024,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks28
 \@floatcapt=\box57
 )
+("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
 smath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
@@ -1807,11 +1811,7 @@ Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\es
 o-pic.sty"
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
-
-("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
-\atbegshi.sty"
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-))
+)
 \AM@pagewidth=\dimen291
 \AM@pageheight=\dimen292
 
@@ -2001,7 +2001,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip301
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 230.
+Package hyperref Info: Option `colorlinks' set `false' on input line 231.
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cleveref\c
 leveref.sty"
@@ -2161,7 +2161,11 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (Lfiler/2016.05.04b.aux) (Lfiler/2016.05.06.aux) (Lfiler/2016.05.10.aux)
 (Lfiler/2016.05.10a.aux) (Lfiler/2016.05.11.aux) (Lfiler/2016.05.13.aux)
 (Lfiler/2016.05.17.aux) (Lfiler/2016.05.17a.aux) (Lfiler/2016.05.17b.aux)
-(Lfiler/2016.05.18.aux) (Lfiler/2016.05.18a.aux))
+(Lfiler/2016.05.18.aux) (Lfiler/2016.05.18a.aux) (Lfiler/2016.05.20.aux)
+(Lfiler/2016.05.20b.aux) (Lfiler/2016.05.21.aux) (Lfiler/2016.05.21b.aux)
+(Lfiler/2016.05.22.aux) (Lfiler/2016.05.22b.aux) (Lfiler/2016.05.22c.aux)
+(Lfiler/2016.23.05.b.aux) (Lfiler/2016.05.24.aux) (Lfiler/2016.05.25.aux)
+(Lfiler/2016.05.26.aux) (Lfiler/2016.05.27.aux))
 \openout1 = `Logbog.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -2222,6 +2226,7 @@ Package biblatex Info: ... file 'Logbog.bbl' not found.
 No file Logbog.bbl.
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
+\AtBeginShipoutBox=\box97
 .................................................
 . chemgreek info: "mapping-activated"
 . 
@@ -2238,7 +2243,6 @@ unitx-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
 \c@lstlisting=\count493
-\AtBeginShipoutBox=\box97
 
 ("C:\Users\MelissaKarina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\p
 dflscape.sty"
@@ -2351,6 +2355,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--9
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 9.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining danish shorthand "~
@@ -2400,6 +2405,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--19
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 11.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 11.
 Package babel Info: Redefining danish shorthand "~
@@ -2455,6 +2461,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--38
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 13.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
@@ -2501,6 +2508,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--83
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 14.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 14.
 Package babel Info: Redefining danish shorthand "~
@@ -2584,6 +2592,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 95.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
@@ -2626,6 +2635,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 137.
 [11])
+Package cleveref Info: loaded `danish' language definitions on input line 15.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 15.
 Package babel Info: Redefining danish shorthand "~
@@ -2673,6 +2683,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 )
+Package cleveref Info: loaded `danish' language definitions on input line 17.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
@@ -2743,6 +2754,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--22
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 19.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining danish shorthand "~
@@ -2803,6 +2815,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 21.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining danish shorthand "~
@@ -2872,6 +2885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 23.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "~
@@ -2932,6 +2946,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--19
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 25.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
@@ -3031,6 +3046,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--17
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 27.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 27.
 Package babel Info: Redefining danish shorthand "~
@@ -3120,6 +3136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--29
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 29.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining danish shorthand "~
@@ -3185,6 +3202,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--18
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 31.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 31.
 Package babel Info: Redefining danish shorthand "~
@@ -3243,6 +3261,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--33
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 33.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
@@ -3302,6 +3321,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--35
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 35.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
@@ -3367,6 +3387,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--13
  []
 
 )
+Package cleveref Info: loaded `danish' language definitions on input line 37.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 37.
 Package babel Info: Redefining danish shorthand "~
@@ -3426,6 +3447,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--39
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 39.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 39.
 Package babel Info: Redefining danish shorthand "~
@@ -3484,6 +3506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--41
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 41.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining danish shorthand "~
@@ -3500,20 +3523,50 @@ Package babel Info: Redefining danish shorthand "~
 
 
 No file Lfiler/2016.05.20.tex.
-\openout2 = `Lfiler/2016.05.21.aux'.
+\openout2 = `Lfiler/2016.05.20b.aux'.
 
-(Lfiler/2016.05.21.tex
+(Lfiler/2016.05.20b.tex
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--18
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--18
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
 
  []
 
@@ -3532,23 +3585,25 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
-\openout2 = `Lfiler/2016.05.22.aux'.
+\openout2 = `Lfiler/2016.05.21.aux'.
 
- (Lfiler/2016.05.22.tex
+ (Lfiler/2016.05.21.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
 )
-Underfull \hbox (badness 10000) in paragraph at lines 8--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--44
-
- []
-
+Package cleveref Info: loaded `danish' language definitions on input line 44.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining danish shorthand "~
@@ -3557,24 +3612,54 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 44.
-[40
+ [40
 
 
 ]
-\openout2 = `Lfiler/2016.23.05.b.aux'.
+\openout2 = `Lfiler/2016.05.21b.aux'.
 
- (Lfiler/2016.23.05.b.tex
+ (Lfiler/2016.05.21b.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--25
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--25
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
 
  []
 
@@ -3591,23 +3676,24 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
-\openout2 = `Lfiler/2016.05.24.aux'.
+\openout2 = `Lfiler/2016.05.22.aux'.
 
- (Lfiler/2016.05.24.tex
+ (Lfiler/2016.05.22.tex
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 3.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 17--46
+Underfull \hbox (badness 10000) in paragraph at lines 8--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--46
+Underfull \hbox (badness 10000) in paragraph at lines 8--46
 
  []
 
+Package cleveref Info: loaded `danish' language definitions on input line 46.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 46.
 Package babel Info: Redefining danish shorthand "~
@@ -3619,15 +3705,242 @@ Package babel Info: Redefining danish shorthand "~
 [42
 
 
-] 
-AED: lastpage setting LastPage
+]
+\openout2 = `Lfiler/2016.05.22b.aux'.
+
+ (Lfiler/2016.05.22b.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--40
+
+ []
+
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 47.
+ [43
+
+
+]
+\openout2 = `Lfiler/2016.05.22c.aux'.
+
+ (Lfiler/2016.05.22c.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Package cleveref Info: loaded `danish' language definitions on input line 48.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 48.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
-(Logbog.aux (Lfiler/2016.02.09.aux) (Lfiler/2016.02.18.aux)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 48.
+ [44
+
+
+]
+\openout2 = `Lfiler/2016.23.05.b.aux'.
+
+
+No file Lfiler/2016.23.05.b.tex.
+\openout2 = `Lfiler/2016.05.24.aux'.
+
+(Lfiler/2016.05.24.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 17--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--50
+
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 50.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 50.
+[45
+
+
+
+
+]
+\openout2 = `Lfiler/2016.05.25.aux'.
+
+ (Lfiler/2016.05.25.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 51.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 51.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 51.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 51.
+ [46
+
+
+
+]
+\openout2 = `Lfiler/2016.05.26.aux'.
+
+ (Lfiler/2016.05.26.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 52.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 52.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 52.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 52.
+ [47
+
+
+
+]
+\openout2 = `Lfiler/2016.05.27.aux'.
+
+ (Lfiler/2016.05.27.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 17--53
+
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 53.
+[48
+
+
+
+] 
+AED: lastpage setting LastPage
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 55.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
+(Logbog.aux (Lfiler/2016.02.09.aux)
+Package cleveref Info: loaded `danish' language definitions on input line 29.
+ (Lfiler/2016.02.18.aux)
 (Lfiler/2016.03.04.aux) (Lfiler/2016.03.08.aux) (Lfiler/2016.03.10.aux)
 (Lfiler/2016.03.15.aux) (Lfiler/2016.03.31.aux) (Lfiler/2016.04.07.aux)
 (Lfiler/2016.04.12.aux) (Lfiler/2016.04.14.aux) (Lfiler/2016.04.18.aux)
@@ -3639,10 +3952,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
 (Lfiler/2016.05.10a.aux) (Lfiler/2016.05.11.aux) (Lfiler/2016.05.13.aux)
 (Lfiler/2016.05.17.aux) (Lfiler/2016.05.17a.aux) (Lfiler/2016.05.17b.aux)
 (Lfiler/2016.05.18.aux) (Lfiler/2016.05.18a.aux) (Lfiler/2016.05.20.aux)
-(Lfiler/2016.05.21.aux) (Lfiler/2016.05.22.aux) (Lfiler/2016.23.05.b.aux)
-(Lfiler/2016.05.24.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+(Lfiler/2016.05.20b.aux) (Lfiler/2016.05.21.aux) (Lfiler/2016.05.21b.aux)
+(Lfiler/2016.05.22.aux) (Lfiler/2016.05.22b.aux) (Lfiler/2016.05.22c.aux)
+(Lfiler/2016.23.05.b.aux) (Lfiler/2016.05.24.aux) (Lfiler/2016.05.25.aux)
+(Lfiler/2016.05.26.aux) (Lfiler/2016.05.27.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
 
 
 Package rerunfilecheck Warning: File `Logbog.out' has changed.
@@ -3650,24 +3965,21 @@ Package rerunfilecheck Warning: File `Logbog.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Logbog.out':
-(rerunfilecheck)             Before: CCE3CC1F93E861E01EF20958C2B28E9D;2237
-(rerunfilecheck)             After:  6F76B956382AA566D8FA4422F67CDB5F;2497.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Before: AEAA26CF6D368D442EA308F63A587990;3023
+(rerunfilecheck)             After:  946C529BD501648AAA8B4A8800436A80;3024.
 Package logreq Info: Writing requests to 'Logbog.run.xml'.
 \openout1 = `Logbog.run.xml'.
 
  )
 (\end occurred when \iftrue on line 6 was incomplete) 
 Here is how much of TeX's memory you used:
- 34499 strings out of 493634
- 626578 string characters out of 3131975
- 1152187 words of memory out of 3000000
- 37124 multiletter control sequences out of 15000+200000
+ 34645 strings out of 493634
+ 629472 string characters out of 3131975
+ 1157031 words of memory out of 3000000
+ 37197 multiletter control sequences out of 15000+200000
  17001 words of font info for 52 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
- 45i,12n,44p,10486b,1672s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,44p,10486b,1948s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\MelissaKarina\A
 ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Use
 rs\MelissaKarina\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tc
@@ -3678,9 +3990,9 @@ Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>{C:/Users/Melis
 saKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/
 Users/MelissaKarina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/bookman/u
 bkd8a.pfb>
-Output written on Logbog.pdf (42 pages, 134565 bytes).
+Output written on Logbog.pdf (48 pages, 148054 bytes).
 PDF statistics:
- 533 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 281 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 613 PDF objects out of 1000 (max. 8388607)
+ 97 named destinations out of 1000 (max. 500000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
