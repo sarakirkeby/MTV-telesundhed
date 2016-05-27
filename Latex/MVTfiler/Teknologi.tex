@@ -6,7 +6,7 @@ Videoopkald giver i dag mulighed for, at sundhedsfagligt personale kan kommunike
 \\
 Som konsekvens af den teknologiske udvikling opstår der nye problemstillinger, hvor blandt andet infrastruktur og patientsikkerhed er nøglebegreber, der sætter tekniske og lovmæssige krav til behandlingen og ikke mindst overførsel af data.
 \\
-I dette kapitel kigges der nærmere på Appinux, som leverer videokonferencesystemet til Favrskov Kommune, og det undersøges, hvorvidt denne løsning harmonerer med de nævnte forudsætninger og det diskuteres, hvilke andre teknologiske foranstaltninger en leverandør af sundhedsydelser som Favrskov Kommune bør være opmærksom på.
+I dette kapitel kigges der nærmere på Appinux' løsning, som leveres til Favrskov Kommune, og det undersøges, hvorvidt denne løsning harmonerer med de nævnte forudsætninger. Det diskuteres, hvilke andre teknologiske foranstaltninger en leverandør af sundhedsydelser som Favrskov Kommune bør være opmærksom på.
 
 \subsection{Fokuseret spørgsmål}
 \begin{itemize}
@@ -20,18 +20,14 @@ I dette kapitel kigges der nærmere på Appinux, som leverer videokonferencesyst
 
 
 \section{Metode}
-Dette kapitel bygger på informationer fra møder og emailkorrespondencer med Appinux' salgdirektør, Michael Ellegaard. Det har været været vanskeligt at finde litteratur, der direkte undersøger Appinux' løsning, så fokus har i stedet ligget på de delelementer og standarder, som Appinux anvender og bygger på. Der er deraf foretaget litteratursøgning på dette med henblik på at klarlægge både mangler og muligheder af Appinux' løsning inden for infrastruktur. Der er anvendt en kvalitativ undersøgelse i form af en struktureret interviewundersøgelse. For en dybdegående beskrivelse af metoden henvises til \vref{chap:metode}
+Dette kapitel bygger på informationer fra møder og emailkorrespondancer med Appinux. Det har været været vanskeligt at finde litteratur, der direkte undersøger Appinux' løsning, så fokus har i stedet ligget på de delelementer og standarder, som Appinux anvender og bygger på. Der er deraf foretaget litteratursøgning på dette med henblik på at klarlægge både mangler og muligheder af Appinux' løsning inden for infrastruktur. Den strukturerede interviewundersøgelse fra \textit{Pilotprojekt Videokommunikation} er anvendt [Bilag 7, 7.1]. For en dybdegående beskrivelse af metoden henvises til bilag [Bilag 16, 16.1].
 
 Specifikke emneord: \textit{WebRTC, Bandwidth, Performance, Communication.}
 
- 
-
-
-
 \section{Resultater}
-Der er udarbejdet en oversigt over elementer, der bør tages med i betragtning i forbindelse med implementering af Appinux' løsning. Dette ses i tabel\ref{tab:tabelforud}.
+Der er udarbejdet en oversigt over elementer, der bør tages med i betragtning i forbindelse med implementering af Appinux' løsning. Dette ses i tabel \ref{tab:tabelforud}.
 \begin{table}[H]
-\caption{Oversigt over vigtige forudsætninger i forbindelse med implementeringen af Appinux' videomodul.}
+\caption{Oversigt over vigtige forudsætninger i forbindelse med implementeringen af Appinux' løsning.}
 \centering
 \label{tab:tabelforud}
 \begin{tabular}{|p{0.2\linewidth}m{0.5\linewidth}|}
@@ -44,19 +40,22 @@ Udstyr & \begin{itemize}\item Hardwarespecifikationer \item Styresystemsspecifik
 
 \end{table}
 \subsection{Appinux}
-Dette afsnit bygger på mødereferat med salgdirektør fra Appinux, Michael Ellegaard [Bilag 4, 4.1], samt Appinux' website \cite{appinuxwebsite}.\\Der er taget udgangspunkt i, at de givne informationer er korrekte, da det ikke har været muligt at finde relevant information om Appinux' løsning andetsteds.\\
-Appinux er en multiplatformsløsning, der giver mulighed for at vælge og fravælge over 70 moduler efter den gågældende kundes behov. Appinux er platformsuafhængig i den forstand, at det kan køre på PC'er via Google Chrome, samt  smartphones og tablets, der er forsynet med Android v. 4.02.\\Der gives, udover Appinux' egne moduler, også adgang til, at tredjepartsfirmaer kan implementere deres egne moduler under forudsætning af, at der finder et samarbejde sted. Dette er for eksempel i form af et genoptræningsmodul.\\Videokonferencesystemet er Appinux' eget modul. Platformen fungerer ved, at Chrome åbnes på enten en PC eller via en app på en smartphone eller tablet, hvorved der er adgang til modulet, som anvender WebRTC. WebRTC er et open source-projekt, som giver mulighed for realtidskommunikation via en browser  \cite{webrtchjemmeside}. Det har den funktion, at videokvaliteten bliver justeret efter tilgængelig båndbredde og CPU-kraft hos hhv. afsender og modtager. Det vurderes af Appinux, at en båndbredde på 512kbit/s er minimumskrav for at videokonferencesystemet kører flydende.
+Dette afsnit bygger på møde med Appinux [Bilag 4, 4.1], samt Appinux' website \cite{appinuxwebsite}.\\Der er taget udgangspunkt i, at de givne informationer er korrekte, da det ikke har været muligt at finde relevant information om Appinux' løsning andetsteds.\\
+Appinux er en multiplatformsløsning, der giver mulighed for at vælge og fravælge over 70 moduler efter den pågældende kundes behov. Appinux er platformsuafhængig i den forstand, at det kan køre på PC'er via Google Chrome, samt  smartphones og tablets, der er forsynet med Android v. 4.02.\\Der gives, udover Appinux' egne moduler, også adgang til, at tredjepartsfirmaer kan implementere deres egne moduler under forudsætning af, at der finder et samarbejde sted. Dette er for eksempel i form af et genoptræningsmodul.\\Videoopkald er Appinux' eget modul. Platformen fungerer ved, at Chrome åbnes på enten en PC eller via en app på en smartphone eller tablet, hvorved der er adgang til modulet, som anvender WebRTC. WebRTC er et open source-projekt, som giver mulighed for realtidskommunikation via en browser  \cite{webrtchjemmeside}. Det har den funktion, at videokvaliteten bliver justeret efter tilgængelig båndbredde og CPU-kraft hos henholdsvis afsender og modtager. Det vurderes af Appinux, at en båndbredde på 512kbit/s er minimumskrav for, at videoopkaldet kører flydende.
 
-Appinux følger en række standarder, som er væsentlige   er nævne. \textit{Continua Health Alliance} giver mulighed for plug-and-play af diverse apparater, såsom en blodtrykmåler, hvilket øger tilslutningsmulighederne. Der gives dog udtryk for, at det primært sker gennem aftaler mellem Appinux og tredjepartsleverandører. Inden for integration understøttes \textit{HL7}, herunder også \textit{FHIR}, som er en standard der sikrer konsistent dataudvekling mellem medicinske systemer [Bilag 4, 4.1]. Derudover giver Appinux mulighed for at opsamle en række data om borgeren, som kan tilgås via grafer og eksporteres ud af systemet.
+Appinux følger en række standarder, som er væsentlige at nævne. \textit{Continua Health Alliance} giver mulighed for plug-and-play af diverse apparater, såsom en blodtrykmåler, hvilket øger tilslutningsmulighederne. Der gives dog udtryk for, at det primært sker gennem aftaler mellem Appinux og tredjepartsleverandører. Inden for integration understøttes \textit{HL7}, herunder også \textit{FHIR}, som er en standard, der sikrer konsistent dataudvekling mellem medicinske systemer. Derudover giver Appinux mulighed for at opsamle en række data om borgeren, som kan tilgås via grafer og eksporteres ud af systemet [Bilag 4, 4.1].
 
 \subsection{Infrastruktur}
-Telekommunikation som videokonferencesystemer er afhængig af tilstedeværelsen af en  internetforbindelse.\\
+Telekommunikation som  videokonferencesystemer er afhængig af tilstedeværelsen af en  internetforbindelse.\\
 Overordnet set skelner denne mini-MTV mellem mobilt bredbånd og en kablet forbindelse, som inkluderer fiber-, coaxial- og kobberforbindelser, da det er her det største skel i forhold til videokonferencesystemer ligger.\\
-Internethastigheden eller båndbredden er ofte den parameter, der kigges på, når kvaliteten på en internetopkobling vurderes. Den mest udbredte opkoblingstype i Danmark er ADSL-bredbånd med over en million abonnementer \cite{statadsl}. Hastighed på disse ligger typisk fra 10/1Mbit/s til 100/20Mbit/s \cite{tdchastigheder} \cite{telenorhastigheder}. Det har ikke været muligt at finde et dækningskort, der viser fiber- og bredbåndsdækningen i Favrskov Kommune, men denne mini-MTV tager udgangspunkt i, at hvis en borger har købt bredbånd med en given hastighed, bliver produktet også leveret.\\
-Udover den kablede internetopkobling, er det også muligt at tilgå internettet via det mobile netværk. Eftersom det hele kører trådsløs, er dækningen utrolig vigtig for, at et videokonferencesystem kører optimalt. TDC's dækningskort viser, at Favrskov Kommune har min. 5Mbit/s på enten 3G- eller 4G-netværket udendørs \cite{tdcdaekning}.
-%Det kan dog være svært at sige, hvorledes hastigheden stemmer overens indendørs, og det er dermed vigtigt at undersøge dette i hver given sitution.
-Der har været indberetninger fra borgere, der antyder, at der i kommunen i efteråret 2015 var problemer med mobildækningen indendørs \cite{tv2oj_daekning}, hvilket har udmøntet sig i et dækningskort som vist på figur \ref{fig:dkort}. Dette indikerer, at kommunen er opmærksom på problemet.\\
+Internethastigheden eller båndbredden er ofte den parameter, der kigges på, når kvaliteten på en internetopkobling vurderes. Den mest udbredte opkoblingstype i Danmark er ADSL-bredbånd med over en million abonnementer \cite{statadsl}. Hastighed på disse ligger typisk fra 10/1Mbit/s til 100/20Mbit/s \cite{tdchastigheder}, \cite{telenorhastigheder}. Det har ikke været muligt at finde et dækningskort, der viser fiber- og bredbåndsdækningen i Favrskov Kommune, men denne mini-MTV tager udgangspunkt i, at hvis en borger har købt bredbånd med en given hastighed, bliver produktet også leveret.
+
+Udover den kablede internetopkobling er det også muligt at tilgå internettet via det mobile netværk. Eftersom det hele kører trådsløst, er dækningen vigtig for, at et videokonferencesystem kører optimalt. TDC's dækningskort viser, at Favrskov Kommune har minimum 5Mbit/s på enten 3G- eller 4G-netværket udendørs \cite{tdcdaekning}. Der har været indberetninger fra borgere, der antyder, at der i kommunen i efteråret 2015 var problemer med mobildækningen indendørs \cite{tv2oj_daekning}, hvilket har udmøntet sig i et dækningskort som vist på figur \ref{fig:dkort}. Dette indikerer, at kommunen er opmærksom på problemet.\\
 Der arbejdes løbende på en forbedret dækning og bredbåndshastighed med en målsætning på 100Mbit/s download og 30Mbit/s upload til alle danskere i 2020 \cite{digitalvel}.
+
+
+
+
 \begin{figure}[H]
 \centering
 \includegraphics[width=1\textwidth]{Figurer/Snip20160526_3}
@@ -65,22 +64,22 @@ Der arbejdes løbende på en forbedret dækning og bredbåndshastighed med en m�
 
 \subsection{Sikkerhed}
 Når patientfølsomme data sendes rundt i cyberspace, er der visse lovkrav, der skal sikre, at der i tilstrækkelig grad værnes om disse data.
-Sundhedsstyrelsen udgav i 2008 \citetitle{vogi}, som omhandler ændringer i sundhedsloven vedrørende elektroniske systemer. Denne blev i 2015 revideret, og det er primært denne, der er anvendt som informationskilde \cite{vogi}.\\
-Det bemærkes, at kilden er et høringsudkast, så ændringer må forventes at forekomme.\\
-Ifølge et udkast til høringsversion \citetitle{vogi} anbefales det, at offentlige institutioner inden for sundhedssektoren ved kommunikation via det åbne internet anvender en krypteret forbindelse, og at brugeren samtidig anvender en såkaldt tofaktor-autentifikation. Private er ikke underlagt samme restriktioner, men det anbefales, at der anvendes tilsvarende eller samme løsning \cite{vogi}.
+Sundhedsstyrelsen udgav i 2008 \citetitle{vogi}, som omhandler ændringer i sundhedsloven vedrørende elektroniske systemer. Denne blev i 2015 revideret, og det er primært denne, der er anvendt som informationskilde \cite{vogi}. Det bemærkes, at kilden er et høringsudkast, så ændringer må forventes at forekomme.
 
-Den dataansvarlige skal overholde sikkerhedsbekendtgørelsens krav, hvilket blandt andet indebærer, at det data, der lagres på enheden, skal være krypteret og beskyttet med kode og kommunikation mellem enhed og database skal være krypteret \cite{shbekendt}. Yderligere skal det sikres, at andre væsentlige forhold fra sundhedsloven, autorisationsloven samt persondataloven overholdes. 
+Ifølge et udkast til høringsversion \citetitle{vogi} anbefales det, at offentlige institutioner inden for sundhedssektoren ved kommunikation via det åbne internet anvender en krypteret forbindelse, og at brugeren samtidig anvender en såkaldt tofaktor-autentifikation \cite{vogi}.
+
+Den dataansvarlige skal overholde sikkerhedsbekendtgørelsens krav, hvilket blandt andet indebærer, at det data, der lagres på enheden, skal være krypteret og beskyttet med kode, og kommunikation mellem enhed og database skal være krypteret \cite{shbekendt}. Yderligere skal det sikres, at andre væsentlige forhold fra sundhedsloven, autorisationsloven samt persondataloven overholdes. 
 
 \section{Diskussion}
 \subsection{Appinux på netværket}
-Med udgangspunkt i det foregående er der fundet evidens for, at den digitale infrastruktur i Favrskov Kommune i teorien er stærk nok til, at videokonferencesystemet fra Appinux kan køre stabilt. Eftersom videoløsningen selv kan justere kvaliteten på baggrund af internetforbindelsen, er systemet ikke så afhængig af stabilitet i båndbredden, men dækningen skal stadig være tilstrækkelig, hvilket kan volde problemer i nogle områder af kommunen.\\
-%Det findes derfor nødvendigt at teste forbindelsen hos den enkelte borger, såfremt borgeren er nødsaget til at køre over det mobile netværk via et SIM-kort. Et andet problem med det mobile netværk er, at der kan opstå forsinkelse i samtalen.\\
+Med udgangspunkt i det foregående er der fundet evidens for, at den digitale infrastruktur i Favrskov Kommune i teorien er stærk nok til, at Appinux' løsning kan køre stabilt. Eftersom videoløsningen selv kan justere kvaliteten på baggrund af internetforbindelsen, er systemet ikke så afhængig af stabilitet i båndbredden, men dækningen skal stadig være tilstrækkelig, hvilket kan volde problemer i nogle områder af kommunen.
+
 Det er blevet konkluderet i studiet \citetitle{webrtcjournal}, der har undersøgt WebRTC på en 3G-forbindelse, at der kan være forsinkelse på op til næsten to sekunder, og dette bliver igen påvirket af flere parametre og giver ifølge studiet svingninger i forsinkelsestiden \cite{webrtcjournal}. Det bør dog nævnes, at 4G-dækning ikke er med i undersøgelsen. Desuden er undersøgelsen lavet i 2013, mens WebRTC stadig var i udviklingsfasen, så omstændighederne kan være anderledes, og en ny tilsvarende undersøgelse er relevant.\\
 Det samme konkluderes i \citetitle{arto}, som yderligere pointerer at Chrome er det bedste browservalg i forhold til at begrænse forsinkelse, samt at browservalg ikke har så meget at sige i forhold til CPU-forbrug \cite{arto}.
 
-Det har ikke været muligt at finde videnskabelige artikler, der undersøger WebRTC på forskellige båndbredder, men videolink2.me er en leverandør af en tilsvarende løsning, der også anvender WebRTC, og denne leverandør har opsat en række minimumskrav og anbefalinger til båndbredden, som ses i tabel \ref{tab:hastighedtabel}. Disse stemmer godt overens med Appinux' anbefalinger [Bilag 4, 4.1].
+Det har ikke været muligt at finde videnskabelige artikler, der undersøger WebRTC på forskellige båndbredder, men videolink2.me er en leverandør af en tilsvarende løsning, der også anvender WebRTC, og denne leverandør har opsat en række minimumskrav og anbefalinger til båndbredden, som ses i tabel \ref{tab:hastighedtabel}. Disse stemmer overens med Appinux' anbefalinger [Bilag 4, 4.1].
 \begin{table}[H]
-\caption{Bud på hastighedskrav til internetopkoblingen ved brug af WebRTC lavet baseret på tabel af VideoLink2.me \cite{videolink2me}}
+\caption{Bud på hastighedskrav til internetopkoblingen ved brug af WebRTC baseret på tabel af VideoLink2.me \cite{videolink2me}}
 \label{tab:hastighedtabel}
 \centering
 \begin{tabular}{|l|l|l|}
@@ -96,11 +95,10 @@ Det har ikke været muligt at finde videnskabelige artikler, der undersøger Web
 \end{table}
 
 \subsubsection{Struktureret interviewundersøgelse}
-Udfordringerne med forsinkelsestid understøttes yderligere af interviewundersøgelsen fra \textit{Pilotprojekt Videokommunikation}, hvor to sygeplejersker angav, at der kunne være forsinkelse på lyd og billede afhængig af geografisk placering. \\Yderligere blev der rapporteret om billedudfald, samt at billedekvaliteten kunne forbedres [Bilag 7, 7.1]. I interviewundersøgelsen er der blevet spurgt fire borgere og to sygeplejesker, så generaliserbarheden kunne forbedres. Ligeledes bør konklusioner inden for disse områder drages på baggrund af mere tekniske undersøgelser af kvantitativ karakter.
-
+Udfordringerne med forsinkelsestid understøttes yderligere af interviewundersøgelsen fra \textit{Pilotprojekt Videokommunikation}, hvor to sygeplejersker angav, at der kunne være forsinkelse på lyd og billede afhængig af geografisk placering. \\Yderligere blev der rapporteret om billedudfald, samt at billedekvaliteten kunne forbedres [Bilag 7, 7.1]. Konklusioner inden for disse områder bør drages på baggrund af mere tekniske undersøgelser af kvantitativ karakter.
 
 \subsection{Opfyldning af sikkerhedskrav}
-Anbefalingen om en tofaktor-autentifikation, der er anbefalet offentlige institutioner at følge, anvendes ikke af Appinux. For at logge ind anvendes blot brugernavn og kodeord, og så er brugeren logget ind i en given periode. Det kan derfor tyde på, at Appinux og Favrskov Kommune ikke opfylder \citetitle{vogi} vedrørende login til Appinux' løsning via det åbne internet. Dog skal det nævnes, at oplysninger herom muligvis ikke er fyldestgørende. For at højne sikkerheden anbefales det dog, at brugeren logger ind med eksempelvis Nem-ID. Dette ville dog tidsmæssigt besværliggøre processen og muligvis være til gene. Teknologien, der muliggør Nem-ID på Android-systemer, findes og anvendes af blandt andre Nets \cite{netsapp}.
+Anbefalingen om en tofaktor-autentifikation, der er anbefalet offentlige institutioner at følge, anvendes ikke af Appinux. For at logge ind anvendes blot brugernavn og kodeord, og så er brugeren logget ind i en given periode. Det kan derfor tyde på, at Appinux og Favrskov Kommune ikke opfylder \citetitle{vogi} vedrørende login til Appinux' løsning via det åbne internet. Dog skal det nævnes, at oplysninger herom muligvis ikke er fyldestgørende, men for at højne sikkerheden anbefales det, at brugeren logger ind med eksempelvis Nem-ID. Dette ville muligvis tidsmæssigt besværliggøre processen og være til gene. Teknologien, der muliggør Nem-ID på Android-systemer, findes og anvendes af blandt andre Nets \cite{netsapp}.
 
 Samtaletidspunkt, varighed og opkalds-ID logges, men selve samtalen gemmes ikke. Det er derved ikke aktuelt at bedømme, hvorledes denne krypteres på enheden. Selve videoopkaldet foregår via en sikker protokol i form af HTTPS [Bilag 4, 4.1].
 
@@ -108,15 +106,18 @@ Som udgangspunkt opfylder Appinux altså minimumskravene, men der gøres opmærk
 
 \subsection{Implementeringsprocessen}
 \label{sec:implementeringsprocessen}
-Appinux lægger vægt på, at kommunen skal være selvhjulpne og blander sig nødigt i implementeringsfasen. Som konsekvens herpå stod kommunen med tablets, som ikke opfyldte minimumskravene til at køre Appinux, hvorfor de måtte erstattes af nye. I denne forbindelse havde det været fordelagtigt med nogle på forhånd klare minimumskrav til specifikationer til PC, tablet og smartphone fra Appinux' side.\\Disse kunne pr. efterspørgsel ikke opgives, hvilket stiller Favrskov Kommune i den situation, at de ikke ved, hvilket udstyr, der virker med Appinux. Det er ligeledes kommunens ansvar at undgå opdateringer af styresystemet på enheden, da Appinux ikke tager ansvar for, at app'en derefter stadig virker. Der bør derfor være en sikring i selve enheden, der sørger for, at dette ikke sker, da en nedgradering kan være vanskelig at udføre.
+Appinux lægger vægt på, at kommunen skal være selvhjulpne og blander sig nødigt i implementeringsfasen. Som konsekvens herpå stod kommunen med tablets, som ikke opfyldte minimumskravene til at køre Appinux, hvorfor de måtte erstattes af nye. I denne forbindelse havde det været fordelagtigt med nogle på forhånd klare minimumskrav til specifikationer til PC, tablet og smartphone fra Appinux' side.\\Disse kunne pr. efterspørgsel ikke opgives, hvilket stiller Favrskov Kommune i den situation, at de ikke ved, hvilket udstyr, der virker med Appinux. Det er ligeledes kommunens ansvar at undgå opdateringer af styresystemet på enheden, da Appinux ikke tager ansvar for, at app'en derefter stadig virker [Bilag 4, 4.1]. Der bør derfor være en sikring i selve enheden, der sørger for, at dette ikke sker, da en nedgradering kan være vanskelig at udføre.
+
 \subsection{Kompatabilitet}
-Det anbefales også, at kommunen tester, at det er muligt at hive data ud af systemet, således at den ikke binder sig til Appinux på længere sigt. I og med at Appinux understøtter \textit{FHIR}-standarden, bør det være muligt at udveklse data mellem andre systemer, der understøtter standarden. Det vurderes, at Appinux er en åben platform og at det er simpelt at udvide med nye komponenter, hvilket gør systemet meget alsidigt. Appinux bygger på open source-komponenter og er et selverklæret open source-system. Det har dog pr. efterspørgsmål ikke været muligt at få adgang til kildekoden, så dette stilles der spørgsmålstegn ved.\\Open source giver mulighed for, at andre levenrandørere nemt kan lave et tilsvarende system og bygge oven på den eksisterende løsning. Er der mulighed for at anvende et open source-system, vil det være anbefalelsesværdigt.
+Det anbefales også, at kommunen tester, at det er muligt at hive data ud af systemet, således at den ikke binder sig til Appinux på længere sigt. I og med at Appinux understøtter \textit{FHIR}-standarden, bør det være muligt at udveklse data mellem andre systemer, der understøtter standarden. Det vurderes, at Appinux er en åben platform, og at det er simpelt at udvide med nye komponenter, hvilket gør systemet meget alsidigt. Appinux bygger på open source-komponenter og er et selverklæret open source-system. Det har dog pr. efterspørgsmål ikke været muligt at få adgang til kildekoden, så dette stilles der spørgsmålstegn ved.
+
+Open source giver mulighed for, at andre leverandørere nemt kan lave et tilsvarende system og bygge oven på den eksisterende løsning. Er der mulighed for at anvende et open source-system, vil det være anbefalelsesværdigt.
 
 \section{Delkonklusion}
 I dette teknologikapitel er det blevet undersøgt, hvorvidt Appinux’ løsning til videoopkald harmonerer med sikkerhedskrav og den digitale infrastruktur i form af mobildækning og bredbåndshastigheder i Favrskov Kommune.
-Det konkluderes, at Appinux’ løsning til virtuel hjemmepleje kan erstatte eller supplere fysiske besøg på et acceptabelt billedkvalitet, såfremt dækning og båndbredde er tilstrækkelig.
-\\Der er fra borgernes side indberettet dækningsproblemer, og Favrskov Kommune bør i den forbindelse undersøge dækningsforholdende inden løsningen implementeres hos den pågældende borger, da der ellers i følge studiet \citetitle{webrtcjournal} og den strukturerede interviewundersøgelse kan opstå forsinkelse og lav billedkvalitet.
+Det konkluderes, at Appinux’ løsning til virtuel hjemmepleje kan erstatte eller supplere fysiske besøg med en acceptabel billedkvalitet, såfremt dækning og båndbredde er tilstrækkelig.
+\\Der er fra borgernes side indberettet dækningsproblemer, og Favrskov Kommune bør i den forbindelse undersøge dækningsforholdende inden løsningen implementeres hos den pågældende borger, da der ellers ifølge de anvendte studier og den strukturerede interviewundersøgelse kan opstå forsinkelse og lav billedkvalitet \cite{webrtcjournal}, \cite{arto}, [Bilag 7, 7.1].
 
 Appinux overholder minimumskravene i forhold til datakryptering, da løsningen kører på en sikker protokol i form af HTTPS. Det kan på baggrund af de indsamlede informationer ikke konkluderes, hvorvidt Appinux og Favrskov Kommune opfylder de vejledende sikkerhedskrav vedrørende login til Appinux' løsning, der kommunikerer via det åbne internet. 
 
-Favrskov Kommune stod for at implementere løsningen, da Appinux ikke har et implementeringshold, som varetager denne opgave, der opstod i den forbindelse problemer på grund af mangel på minimumskrav på hardware fra Appinux' side. Det er yderligere vigtigt, at det på forhånd er undersøgt, hvorledes data kan hives ud af systemet, og hvorvidt der kan bygges videre på løsningen, så et eventuelt leverandørskifte forekommer så gnidningsfrit som muligt og uden datatab.
+Favrskov Kommune stod for at implementere løsningen, da Appinux ikke har et implementeringshold, som varetager denne opgave. Der opstod i den forbindelse problemer på grund af manglende minimumskrav til hardware fra Appinux' side. Det er yderligere vigtigt, at det på forhånd er undersøgt, hvorledes data kan hives ud af systemet, og hvorvidt der kan bygges videre på løsningen, så et eventuelt leverandørskifte forekommer så gnidningsfrit som muligt og uden datatab.
